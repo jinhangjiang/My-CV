@@ -46,7 +46,7 @@ __Student Researcher__, Arizona State University, Adidas Actionable Analytics La
 
 
 `2020.01 - 2020.05`
-__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics Department
+__Research Assistant - Analytics, Information, Operations Management__, University of Kansas, Business Analytics Department
 
 
 `2020.02 - 2020.04`
