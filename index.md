@@ -6,10 +6,10 @@ title: Jinhang Jiang's CV
 Data Scientist, Student Researcher at the University of Kansas
 
 <div id="webaddress">
-<a href="http://jinhangjiang.com">Homepage</a>
-| <a href="jinhang@asu.edu">My Email</a>
-| <a href="https://www.linkedin.com/in/jinhangjiang/">My LinkedIn</a>
-| <a href="https://jinhangjiang.medium.com/">My Medium Blogs</a>
+<a href="http://jinhangjiang.com">jinhangjiang.com</a>
+| <a href="jinhang@asu.edu">jinhang@asu.edu</a>
+| <a href="https://www.linkedin.com/in/jinhangjiang/">linkedin.com/in/jinhangjiang</a>
+| <a href="https://jinhangjiang.medium.com/">jinhangjiang.medium.com</a>
 </div>
 
 
