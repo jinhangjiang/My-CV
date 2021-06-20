@@ -21,7 +21,7 @@ Natural Language Processing, Healthcare Information System, Statistical Machine 
 ## Education
 
 `2020.08 - 2021.05`
-__Arizona State University  Tempe (AZ)__
+__Arizona State University,  Tempe (AZ)__
 
 - Master of Science in Business Analytics
 
