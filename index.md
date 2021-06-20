@@ -62,10 +62,10 @@ __Programming Languages__:
 
 __Technical Expertise & Select Models__: 
 -	Natural Language Processing: _(e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)_
+-	Network Analysis: _(e.g., NetworkX, Node2vec, ERGM, K-Means Clustering)_
 -	Image Analysis: _(e.g., ImageNet, Google NIMA, VGG-16, CNN)_
--	Network Analysis: _(e.g., NetworkX, Node2vec, T-SNE, K-Means Clustering)_
 -	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
--	Data Processing & Visualization: _(e.g., Pandas, NumPy, Matplotlib, Seaborn)_
+-	Data Processing & Visualization: _(e.g., Pandas, NumPy, Matplotlib, Seaborn, T-SNE)_
 
 
 
