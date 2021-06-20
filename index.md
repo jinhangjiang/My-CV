@@ -57,7 +57,8 @@ __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__
 
 
 ## Relevant Skills
-__Programming Languages__: Python, R, SQL 
+__Programming Languages__: 
+- Python, R, SQL 
 
 __Technical Expertise & Select Models__: 
 -	Natural Language Processing: _(e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)_
@@ -66,15 +67,6 @@ __Technical Expertise & Select Models__:
 -	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
 -	Data Processing & Visualization_: _(e.g., Pandas, NumPy, Matplotlib, Seaborn)_
 
-__Tools & Technologies__: 
--	IDEs_: _RStudio, Oracle SQL Developer, MySQL Workbench, Google Colab, Spyder, Jupyter Notebook_
--	Cloud & AI Platforms: _AWS, Oracle Cloud Infrastructure, Neptune, GitHub_
--	Business Intelligence: _Power BI, Tableau, Google Analytics_
-
-
-__Statistical Knowledge__: 
-- Regression Analyses: _(e.g., Linear, Logistic)_
-- Time Series Analysis: _(e.g., ARIMA, MSSA)_
 
 
 ## References
