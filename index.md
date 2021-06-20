@@ -3,7 +3,7 @@ layout: cv
 title: Jinhang Jiang's CV
 ---
 # Jinhang Jiang
-</br>
+</a>
 Data Scientist, Student Researcher at the University of Kansas
 
 <div id="webaddress">
