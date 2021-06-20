@@ -35,7 +35,7 @@ __University of Kansas, Lawrence (KS)__
 
 ## Research Experience
 
-`2021.06 - present`
+`2021.05 - present`
 __Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics
 
 
