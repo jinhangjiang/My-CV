@@ -65,7 +65,7 @@ __Technical Expertise & Select Models__:
 -	Image Analysis: _(e.g., ImageNet, Google NIMA, VGG-16, CNN)_
 -	Network Analysis: _(e.g., NetworkX, Node2vec, T-SNE, K-Means Clustering)_
 -	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
--	Data Processing & Visualization_: _(e.g., Pandas, NumPy, Matplotlib, Seaborn)_
+-	Data Processing & Visualization: _(e.g., Pandas, NumPy, Matplotlib, Seaborn)_
 
 
 
