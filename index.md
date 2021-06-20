@@ -76,7 +76,7 @@ __Karthik Srinivasan__
 - Department of Business Analytics
 - School of Business, University of Kansas
 - Email: karthiks@ku.edu
-- Relationship: Supervisor, Mentor
+- Relationship: Supervisor, Mentor, Professor
 
 __Victor Benjamin__
 - Assistant Professor
@@ -84,6 +84,13 @@ __Victor Benjamin__
 - W.P. Carey School of Business, Arizona State University
 - Email: Victor.Benjamin@asu.edu
 - Relationship: Professor, Applied Project Supervisor
+
+__George Wang__
+- Managing Director
+- Happy Hoops Basketball Camp
+- Happy Learning Foundation 
+- Email: george.wang@happylearning.org
+- Relationship: Supervisor, Mentor
 
 
 
