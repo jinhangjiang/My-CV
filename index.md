@@ -24,11 +24,13 @@ Natural Language Processing, Healthcare Information System, Statistical Machine 
 __Arizona State University,  Tempe (AZ)__
 
 - Master of Science in Business Analytics
+- Applied project: “Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration.”
 
 `2015.08 - 2020.07`
 __University of Kansas, Lawrence (KS)__
 
 - Bachelor of Science in Business Analytics
+- Capstone project: “Machine Learning and Predictive Analysis with IMDb Data.”
 
 
 ## Working Experience
