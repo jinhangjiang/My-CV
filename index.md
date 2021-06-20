@@ -57,24 +57,24 @@ __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__
 
 
 ## Relevant Skills
-__Programming Languages__: Python, R, SQL <br/>
+__Programming Languages__: Python, R, SQL 
 
 __Technical Expertise & Select Models__: 
--	_Natural Language Processing_: (e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)
--	_Image Analysis_: (e.g., ImageNet, Google NIMA, VGG-16, CNN)
--	_Network Analysis_: (e.g., NetworkX, Node2vec, T-SNE, K-Means Clustering)
--	_Machine Learning_: (e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)
--	_Data Processing & Visualization_: (e.g., Pandas, NumPy, Matplotlib, Seaborn) <br/>
+-	Natural Language Processing: _(e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)_
+-	Image Analysis: _(e.g., ImageNet, Google NIMA, VGG-16, CNN)_
+-	Network Analysis: _(e.g., NetworkX, Node2vec, T-SNE, K-Means Clustering)_
+-	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
+-	Data Processing & Visualization_: _(e.g., Pandas, NumPy, Matplotlib, Seaborn)_
 
 __Tools & Technologies__: 
--	_IDEs_: RStudio, Oracle SQL Developer, MySQL Workbench, Google Colab, Spyder, Jupyter Notebook
--	_Cloud & AI Platforms_: AWS, Oracle Cloud Infrastructure, Neptune, GitHub
--	_Business Intelligence_: Power BI, Tableau, Google Analytics <br/>
+-	IDEs_: _RStudio, Oracle SQL Developer, MySQL Workbench, Google Colab, Spyder, Jupyter Notebook_
+-	Cloud & AI Platforms: _AWS, Oracle Cloud Infrastructure, Neptune, GitHub_
+-	Business Intelligence: _Power BI, Tableau, Google Analytics_
 
 
 __Statistical Knowledge__: 
-- _Regression Analyses_: (e.g., Linear, Logistic)
-- _Time Series Analysis_: (e.g., ARIMA, MSSA)
+- Regression Analyses: _(e.g., Linear, Logistic)_
+- Time Series Analysis: _(e.g., ARIMA, MSSA)_
 
 
 ## References
