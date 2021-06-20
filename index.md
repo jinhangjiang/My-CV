@@ -31,7 +31,7 @@ __Arizona State University,  Tempe (AZ)__
 __University of Kansas, Lawrence (KS)__
 
 - Bachelor of Science in Business Analytics
-- Capstone project: “Machine Learning and Predictive Analysis with IMDb Data.”
+- Capstone project: “Exploratory Data Analysis and Predictive Analysis with IMDb Data.”
 
 
 ## Working Experience
