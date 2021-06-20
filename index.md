@@ -6,8 +6,8 @@ title: Jinhang Jiang's CV
 Data Scientist, Student Researcher at the University of Kansas
 
 <div id="webaddress">
-<a href="jinhang@asu.edu">My Email</a>
-| <a href="http://jinhangjiang.com">My Website</a>
+<a href="http://jinhangjiang.com">Homepage</a>
+| <a href="jinhang@asu.edu">My Email</a>
 | <a href="https://www.linkedin.com/in/jinhangjiang/">My LinkedIn</a>
 | <a href="https://jinhangjiang.medium.com/">My Medium Blogs</a>
 </div>
@@ -31,23 +31,23 @@ __University of Kansas, Lawrence (KS)__
 - Bachelor of Science in Business Analytics
 
 
-## Occupation
+## Working Experience
 
 `2021.06 - present`
-__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics
+__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics Department
 
 
 
 `2020.10 - 2021.05`
-__Student Researcher__, Actionable Analytics Lab at Arizona State University
+__Student Researcher__, Arizona State University, Adidas Actionable Analytics Lab
 
 
 `2020.01 - 2020.05`
-__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics
+__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics Department
 
 
 `2020.02 - 2020.04`
-__Teaching Assistant (SQL & Business Intelligence)__, University of Kansas, Business Analytics
+__Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__, University of Kansas, Business Analytics
 
 
 <!-- ### Footer
