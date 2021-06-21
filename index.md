@@ -15,7 +15,7 @@ Data Scientist, Student Researcher at the University of Kansas
 
 ### Research interests
 
-Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics.
+Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics.
 
 
 ## Education
