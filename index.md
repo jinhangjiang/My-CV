@@ -58,7 +58,9 @@ __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__
 
 ## Relevant Skills
 __Programming Languages__: 
-- Python, R, SQL 
+- Python
+- R
+- SQL 
 
 __Technical Expertise & Select Models__: 
 -	Natural Language Processing: _(e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)_
