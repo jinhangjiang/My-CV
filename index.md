@@ -36,16 +36,16 @@ __University of Kansas, Lawrence (KS)__
 ## Research Experience
 
 `2021.05 - present`
-__Student Researcher - Analytics, Information, Operations Management__, University of Kansas, Business Analytics
+__Student Researcher - Healthcare Analytics and Network Analysis__, University of Kansas, Business Analytics
 
 
 
 `2020.10 - 2021.05`
-__Student Researcher__, Arizona State University, Adidas Actionable Analytics Lab
+__Student Researcher - Natural Language Processing and Social Media Analytics__, Arizona State University, Adidas Actionable Analytics Lab
 
 
 `2020.01 - 2020.05`
-__Research Assistant - Analytics, Information, Operations Management__, University of Kansas, Business Analytics
+__Research Assistant - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
 
 
 
