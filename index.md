@@ -15,7 +15,7 @@ Data Scientist, Student Researcher at the University of Kansas
 
 ### Research interests
 
-Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Network Analysis.
+Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics.
 
 
 ## Education
@@ -41,7 +41,7 @@ __Student Researcher - Healthcare Analytics and Network Analysis__, University o
 
 
 `2020.10 - 2021.05`
-__Student Researcher - Natural Language Processing and Social Media Analytics__, Arizona State University, Adidas Actionable Analytics Lab
+__Student Researcher - Social Media Analytics__, Arizona State University, Adidas Actionable Analytics Lab
 
 
 `2020.01 - 2020.05`
