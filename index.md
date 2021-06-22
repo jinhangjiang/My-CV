@@ -3,10 +3,9 @@ layout: cv
 title: Jinhang Jiang's CV
 ---
 # Jinhang Jiang
-<br/>
+### <a href="http://jinhangjiang.com">Homepage</a>
 Data Scientist, Student Researcher at the University of Kansas
 
-### <a href="http://jinhangjiang.com">Homepage</a>
 
 <div id="webaddress">
 <a href="mailto: http://jinhangjiang.com">jinhangjiang.com</a>
