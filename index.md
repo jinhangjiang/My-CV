@@ -14,9 +14,14 @@ Data Scientist, Student Researcher at the University of Kansas
 </div>
 
 
+
+
+
 ### Research interests
 
 Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics.
+
+
 
 
 ## Education
@@ -32,6 +37,8 @@ __University of Kansas, Lawrence (KS)__
 
 - Bachelor of Science in Business Analytics
 - Capstone Project: “Exploratory Data Analysis and Predictive Analysis with IMDb Data”
+
+
 
 
 ## Research Experience
@@ -50,10 +57,18 @@ __Research Assistant - Analytics, Information, and Operations Management__, Univ
 
 
 
+
+
 ## Teaching Experience
 
 `2020.02 - 2020.04`
 __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__, University of Kansas, Business Analytics
+
+
+
+## Manuscripts Under Review
+Jiang J., Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with Social Networks.
+
 
 
 
