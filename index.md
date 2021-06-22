@@ -3,7 +3,7 @@ layout: cv
 title: Jinhang Jiang's CV
 ---
 # Jinhang Jiang
-### <a href="http://jinhangjiang.com">Homepage</a>
+### <a href="http://jinhangjiang.com">HOMEPAGE</a>
 Data Scientist, Student Researcher at the University of Kansas
 
 
@@ -17,14 +17,14 @@ Data Scientist, Student Researcher at the University of Kansas
 
 
 
-### Research interests
+### RESEARCH INTERESTS
 
 Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics.
 
 
 
 
-## Education
+## EDUCATION
 
 `2020.08 - 2021.05`
 __Arizona State University,  Tempe (AZ)__
@@ -41,7 +41,7 @@ __University of Kansas, Lawrence (KS)__
 
 
 
-## Research Experience
+## RESEARCH EXPERIENCE
 
 `2021.05 - present`
 __Student Researcher - Healthcare Analytics and Network Analysis__, University of Kansas, Business Analytics
@@ -59,20 +59,20 @@ __Research Assistant - Analytics, Information, and Operations Management__, Univ
 
 
 
-## Teaching Experience
+## TEACHING EXPERIENCE
 
 `2020.02 - 2020.04`
 __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__, University of Kansas, Business Analytics
 
 
 
-## Manuscripts Under Review
+## MANUSCRIPTS UNDER REVIEW
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with Social Networks.
 
 
 
 
-## Relevant Skills
+## RELEVANT SKILLS
 __Programming Languages__: 
 - Python
 - R
@@ -87,7 +87,7 @@ __Technical Expertise & Select Models__:
 
 
 
-## References
+## REFERENCES
 
 __Karthik Srinivasan__
 - Assistant Professor
