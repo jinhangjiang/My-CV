@@ -67,7 +67,7 @@ __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__
 
 
 ## MANUSCRIPTS UNDER REVIEW
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with Social Networks.
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Business Analytics.
 
 
 
