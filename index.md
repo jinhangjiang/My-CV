@@ -58,6 +58,15 @@ __Research Assistant - Analytics, Information, and Operations Management__, Univ
 
 
 
+## MANUSCRIPTS UNDER REVIEW
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Business Analytics.
+
+
+## WORK IN PROGRESS
+“Diseases-network Analysis with Exponential Random Graph Models”
+
+
+
 
 ## TEACHING EXPERIENCE
 
@@ -66,13 +75,45 @@ __Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__
 
 
 
-## MANUSCRIPTS UNDER REVIEW
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Business Analytics.
+## FREELANCING EXPERIENCE
+
+`2020.05 - present`
+__Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
 
 
-## WORK IN PROGRESS
-“Diseases-network Analysis with Exponential Random Graph Models”
+## SELECT INDEPENDENT RESEARCH
+•	Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
+•	Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
+•	LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
+•	Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
 
+
+
+## CASE COMPETITION EXPERIENCE
+
+`2021`
+__CommonLit Readability Prize, Featured Kaggle Competition__
+Ranked top 20% out of 2500+ teams
+
+`2020`
+__Humana-Mays Healthcare Analytics Case Competition__
+Ranked top 50 teams out of 250+ teams
+
+`2021`
+__H&R Block & University of Kansas Machine Learning Competition__                 
+Ranked 2nd place out of 7 teams
+
+
+## SELECT COURSEWORK
+### ARIZONA STATE UNIVERSITY:
+- __Enterprise Analytics__ | MySQL, database management, and data visualization
+- __Descriptive and Predictive Supply Chain Analytics__ | statistical modeling & forecasting
+- __Analytical Decision Modeling__ | quantitative modeling, business decision-making, and deterministic optimization techniques
+- __Marketing Analytics__ | R, developing analytical methods and applying statistical and mathematical tools to predict consumer behavior
+- __Data Mining__ | Python, machine learning, computer vision,  natural language processing and predictive analytics on both structured and unstructured data
+
+### UNIVERSITY OF KANSAS:
+Machine Learning with R,  Data Mining & Predictive Analytics, Information Security Business Policy and Strategy, Quantitative Methods & Data Analysis
 
 
 ## RELEVANT SKILLS
@@ -105,6 +146,13 @@ __Victor Benjamin__
 - W.P. Carey School of Business, Arizona State University
 - Email: Victor.Benjamin@asu.edu
 - Relationship: Professor, Applied Project Supervisor
+
+__Lijun Chen__
+- BSAN 415 Instructor & Ph.D. Candidate
+- Department of Business Analytics
+- School of Business, University of Kansas
+- Email: lijun.chen@ku.edu
+- Relationship: Instructor
 
 __George Wang__
 - Managing Director
