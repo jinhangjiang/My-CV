@@ -106,14 +106,14 @@ Ranked 2nd place out of 7 teams
 
 ## SELECT COURSEWORK
 ### ARIZONA STATE UNIVERSITY:
-- __Enterprise Analytics__ | MySQL, database management, and data visualization
-- __Descriptive and Predictive Supply Chain Analytics__ | statistical modeling & forecasting
-- __Analytical Decision Modeling__ | quantitative modeling, business decision-making, and deterministic optimization techniques
-- __Marketing Analytics__ | R, developing analytical methods and applying statistical and mathematical tools to predict consumer behavior
-- __Data Mining__ | Python, machine learning, computer vision,  natural language processing and predictive analytics on both structured and unstructured data
+- __Enterprise Analytics__, MySQL, database management, and data visualization
+- __Descriptive and Predictive Supply Chain Analytics__, statistical modeling & forecasting
+- __Analytical Decision Modeling__, quantitative modeling, business decision-making, and deterministic optimization techniques
+- __Marketing Analytics__, R, developing analytical methods and applying statistical and mathematical tools to predict consumer behavior
+- __Data Mining__, Python, machine learning, computer vision,  natural language processing and predictive analytics on both structured and unstructured data
 
 ### UNIVERSITY OF KANSAS:
-Machine Learning with R,  Data Mining & Predictive Analytics, Information Security Business Policy and Strategy, Quantitative Methods & Data Analysis
+Machine Learning with R, Data Mining & Predictive Analytics, Information Security Business Policy and Strategy, Quantitative Methods & Data Analysis
 
 
 ## RELEVANT SKILLS
