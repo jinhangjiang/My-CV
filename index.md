@@ -82,10 +82,10 @@ __Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
 
 
 ## SELECT INDEPENDENT RESEARCH
-•	Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
-•	Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
-•	LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
-•	Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
+- •	Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
+- •	Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
+- •	LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
+- •	Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
 
 
 
