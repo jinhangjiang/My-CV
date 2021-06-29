@@ -59,7 +59,7 @@ __Research Assistant - Analytics, Information, and Operations Management__, Univ
 
 
 ## MANUSCRIPTS UNDER REVIEW
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Business Analytics.
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
 
 
 ## WORK IN PROGRESS
@@ -82,10 +82,10 @@ __Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
 
 
 ## SELECT INDEPENDENT RESEARCH
-- •	Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
-- •	Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
-- •	LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
-- •	Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
+- Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
+- Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
+- LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
+- Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
 
 
 
@@ -93,15 +93,15 @@ __Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
 
 `2021`
 __CommonLit Readability Prize, Featured Kaggle Competition__
-Ranked top 20% out of 2500+ teams
+- Ranked top 20% out of 2500+ teams
 
 `2020`
 __Humana-Mays Healthcare Analytics Case Competition__
-Ranked top 50 teams out of 250+ teams
+- Ranked top 50 teams out of 250+ teams
 
 `2021`
 __H&R Block & University of Kansas Machine Learning Competition__                 
-Ranked 2nd place out of 7 teams
+- Ranked 2nd place out of 7 teams
 
 
 ## SELECT COURSEWORK
@@ -165,4 +165,4 @@ __George Wang__
 
 <!-- ### Footer
 
-Last updated: June 2021 -->
+Last updated: June 29, 2021 -->
