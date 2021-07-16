@@ -56,7 +56,7 @@ __Student Researcher - Social Media Analytics__, Arizona State University, Adida
 __Research Assistant - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
 
 
-## Published Papers
+## PUBLISHED PAPERS
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN, 2021.
 
 ## MANUSCRIPTS UNDER REVIEW
