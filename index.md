@@ -63,8 +63,8 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
 
 
-## WORK IN PROGRESS
-“Diseases-network Analysis with Exponential Random Graph Models”
+## WORKING PAPERS
+__Jiang J.__, Srinivasan K. “Diseases-network Analysis with Exponential Random Graph Models”
 
 
 
