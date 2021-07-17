@@ -58,7 +58,8 @@ __Research Assistant - Analytics, Information, and Operations Management__, Univ
 
 
 ## PUBLISHED PAPERS
-__Jiang J.__, Srinivasan K. 2021. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN, abstract 3877615.
+`2021`
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN, abstract 3877615.
 
 
 
