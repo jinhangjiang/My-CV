@@ -27,7 +27,7 @@ Network Analysis, Natural Language Processing, Healthcare Information System, St
 ## EDUCATION
 
 `2020.08 - 2021.05`
-__Arizona State University,  Tempe (AZ)__
+__Arizona State University, Tempe (AZ)__
 
 - Master of Science in Business Analytics
 - Applied Project: “Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration”
@@ -44,8 +44,7 @@ __University of Kansas, Lawrence (KS)__
 ## RESEARCH EXPERIENCE
 
 `2021.05 - present`
-__Student Researcher - Healthcare Analytics and Network Analysis__, University of Kansas, Business Analytics
-
+__Student Researcher - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
 
 
 `2020.10 - 2021.05`
@@ -56,11 +55,17 @@ __Student Researcher - Social Media Analytics__, Arizona State University, Adida
 __Research Assistant - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
 
 
+
+
 ## PUBLISHED PAPERS
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN, 2021.
+__Jiang J.__, Srinivasan K. 2021. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN, abstract 3877615.
+
+
 
 ## MANUSCRIPTS UNDER REVIEW
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
+
+
 
 
 ## WORKING PAPERS
