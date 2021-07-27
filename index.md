@@ -26,13 +26,13 @@ Network Analysis, Natural Language Processing, Healthcare Information System, St
 
 ## EDUCATION
 
-`2020.08 - 2021.05`
+`2021.05`
 __Arizona State University, Tempe (AZ)__
 
 - Master of Science in Business Analytics
 - Applied Project: “Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration”
 
-`2015.08 - 2020.07`
+`2020.07`
 __University of Kansas, Lawrence (KS)__
 
 - Bachelor of Science in Business Analytics
@@ -70,7 +70,7 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 ## WORKING PAPERS
-__Jiang J.__, Srinivasan K. “Diseases-network Analysis with Exponential Random Graph Models”
+__Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence and co-occurrences in U.S. hospital visits using exponential random graphs”
 
 
 
