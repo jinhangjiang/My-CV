@@ -44,15 +44,15 @@ __University of Kansas, Lawrence (KS)__
 ## RESEARCH EXPERIENCE
 __University of Kansas, Business Analytics, Lawrence (KS)__ <br/>
 `2021.05 - present`
-- _Student Researcher - Analytics, Information, and Operations Management_
-
+_Student Researcher - Analytics, Information, and Operations Management_
+<br/>
 `2020.01 - 2020.05`
-- _Research Assistant - Analytics, Information, and Operations Management_
-
+_Research Assistant - Analytics, Information, and Operations Management_
+<br/>
 
 __Arizona State University, Adidas Actionable Analytics Lab, Tempe (AZ)__<br/>
 `2020.10 - 2021.05`
-- _Student Researcher - Social Media Analytics_
+_Student Researcher - Social Media Analytics_
 
 
 
@@ -78,25 +78,25 @@ __Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence 
 
 
 ## INDUSTRY WORK EXPERIENCE
-__Shanghai JunGe Management Consulting Co. Ltd__
+__Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.01 - present`
-_Chief Data Officer_
+_Chief Data Officer_<br/>
 `2019.08 - present`
-_Co-Founder & Supervisor_
+_Co-Founder & Supervisor_<br/>
 
 
 
 ## TEACHING EXPERIENCE
-__University of Kansas, Business Analytics, Overland Park (KS)__
+__University of Kansas, Business Analytics, Overland Park (KS)__<br/>
 `2020.02 - 2020.04`
-_Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_
+_Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<br/>
 
 
 
 ## FREELANCING EXPERIENCE
-__Towards Data Science & Analytics Vidhya (Remote)__
+__Towards Data Science & Analytics Vidhya (Remote)__<br/>
 `2020.05 - present`
-_Data Science Journalist_
+_Data Science Journalist_<br/>
 
 
 ## SELECT INDEPENDENT RESEARCH
