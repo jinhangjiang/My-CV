@@ -42,17 +42,19 @@ __University of Kansas, Lawrence (KS)__
 
 
 ## RESEARCH EXPERIENCE
-
+__University of Kansas, Business Analytics, Lawrence (KS)__
 `2021.05 - present`
-__Student Researcher - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
-
-
-`2020.10 - 2021.05`
-__Student Researcher - Social Media Analytics__, Arizona State University, Adidas Actionable Analytics Lab
-
-
+_Student Researcher - Analytics, Information, and Operations Management_
 `2020.01 - 2020.05`
-__Research Assistant - Analytics, Information, and Operations Management__, University of Kansas, Business Analytics
+_Research Assistant - Analytics, Information, and Operations Management_
+
+
+__Arizona State University, Adidas Actionable Analytics Lab, Tempe (AZ)__
+`2020.10 - 2021.05`
+_Student Researcher - Social Media Analytics_
+
+
+
 
 
 
@@ -70,22 +72,30 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 ## WORKING PAPERS
-__Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence and co-occurrences in U.S. hospital visits using exponential random graphs”
+__Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence and co-occurrences in U.S. hospital visits using exponential random graph models”
 
+
+
+## INDUSTRY WORK EXPERIENCE
+__Shanghai JunGe Management Consulting Co. Ltd__
+`2021.01 - present`
+_Chief Data Officer_
+`2019.08 - present`
+_Co-Founder & Supervisor_
 
 
 
 ## TEACHING EXPERIENCE
-
+__University of Kansas, Business Analytics, Overland Park (KS)__
 `2020.02 - 2020.04`
-__Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)__, University of Kansas, Business Analytics
+_Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_
 
 
 
 ## FREELANCING EXPERIENCE
-
+__Towards Data Science & Analytics Vidhya (Remote)__
 `2020.05 - present`
-__Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
+_Data Science Journalist_
 
 
 ## SELECT INDEPENDENT RESEARCH
@@ -100,13 +110,13 @@ __Data Science Journalist__,Towards Data Science & Analytics Vidhya, remote
 
 `2021`
 __CommonLit Readability Prize, Featured Kaggle Competition__
-- Ranked top 20% out of 2500+ teams
+- Ranked top 30% out of 3600+ teams
 
 `2020`
 __Humana-Mays Healthcare Analytics Case Competition__
 - Ranked top 50 teams out of 250+ teams
 
-`2021`
+`2019`
 __H&R Block & University of Kansas Machine Learning Competition__                 
 - Ranked 2nd place out of 7 teams
 
