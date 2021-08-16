@@ -78,6 +78,10 @@ __Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence 
 
 
 ## INDUSTRY WORK EXPERIENCE
+__Smart Funding Inc.__<br/>
+`2021.08 - present`
+_Senior Research Associate_
+
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.01 - present`
 _Chief Data Officer_<br/>
