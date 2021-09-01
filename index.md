@@ -173,20 +173,6 @@ __Victor Benjamin__
 - Email: Victor.Benjamin@asu.edu
 - Relationship: Professor, Applied Project Supervisor
 
-__Lijun Chen__
-- BSAN 415 Instructor & Ph.D. Candidate
-- Department of Business Analytics
-- School of Business, University of Kansas
-- Email: lijun.chen@ku.edu
-- Relationship: Instructor
-
-__George Wang__
-- Managing Director
-- Happy Hoops Basketball Camp
-- Happy Learning Foundation 
-- Email: george.wang@happylearning.org
-- Relationship: Supervisor, Mentor
-
 
 
 <!-- ### Footer
