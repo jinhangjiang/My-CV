@@ -4,7 +4,7 @@ title: Jinhang Jiang's CV
 ---
 # Jinhang Jiang
 ### <a href="http://jinhangjiang.com">HOMEPAGE</a>
-Data Scientist, Student Researcher at the University of Kansas
+Data Scientist at Walmart Global Tech
 
 
 <div id="webaddress">
@@ -43,7 +43,7 @@ __University of Kansas, Lawrence (KS)__
 
 ## RESEARCH EXPERIENCE
 __University of Kansas, Business Analytics, Lawrence (KS)__ <br/>
-`2021.05 - present`
+`2021.05 - 2021.09`
 _Student Researcher - Analytics, Information, and Operations Management_
 <br/>
 `2020.01 - 2020.05`
@@ -73,11 +73,15 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 ## WORKING PAPERS
-__Jiang J.__, Srinivasan K. “Modeling changing patterns in disease occurrence and co-occurrences in U.S. hospital visits using exponential random graph models”
+__Jiang J.__, Srinivasan K. “Analyzing Patterns in U.S. Hospital Discharge Reporting During the COVID-19 Pandemic: A Graph Modeling Approach”
 
 
 
 ## INDUSTRY WORK EXPERIENCE
+__Walmart Global Tech__<br/>
+`2021.09 - present`
+_Data Scientist_
+
 __Smart Funding Inc.__<br/>
 `2021.08 - present`
 _Senior Research Associate_
