@@ -87,7 +87,7 @@ __Smart Funding Inc.__<br/>
 _Senior Research Associate_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
-'2021.09 - present`
+`2021.09 - present`
 _Chief Technology Officer_<br/>
 `2019.08 - present`
 _Co-Founder & Supervisor_<br/>
