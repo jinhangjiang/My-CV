@@ -19,7 +19,7 @@ Data Scientist at Walmart Global Tech
 
 ### RESEARCH INTERESTS
 
-Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics.
+Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics, Big Data, Operation Research.
 
 
 
@@ -158,6 +158,10 @@ __Technical Expertise & Select Models__:
 -	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
 -	Data Processing & Visualization: _(e.g., Pandas, NumPy, Matplotlib, Seaborn, T-SNE)_
 
+__Platforms & Softwares__:
+- Coding editors: R Studio, Oracle SQL Developer, MySQL Workbench, Jupyter Notebook, Spyder, Google Colab, pgAdmin
+- Big data: Hive, Apache Spark
+- Visualiztion: Power BI, Oracle Analytics Cloud, Tableau
 
 
 ## REFERENCES
