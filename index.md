@@ -80,19 +80,18 @@ __Jiang J.__, Srinivasan K. “Analyzing Patterns in U.S. Hospital Discharge Rep
 ## INDUSTRY WORK EXPERIENCE
 __Walmart Global Tech__<br/>
 `2021.09 - present`
-_Data Scientist - Merchandising , Store Operation and Procurement/Global Sourcing_
+_Pricing Data Scientist - Merchandising , Store Operations and Global Sourcing_
 
 __Smart Funding Inc.__<br/>
 `2021.08 - present`
-_Senior Research Associate_
+_Senior Research Associate - Data Enhancement and Algorithm Development_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.09 - present`
 _Chief Technology Officer_<br/>
 `2019.08 - present`
 _Co-Founder & Supervisor_<br/>
-`2021.01 - 2021.09`
-_Chief Data Officer_<br/>
+
 
 
 
