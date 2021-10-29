@@ -43,8 +43,8 @@ __University of Kansas, Lawrence (KS)__
 
 ## RESEARCH EXPERIENCE
 __University of Kansas, Business Analytics, Lawrence (KS)__ <br/>
-`2021.05 - 2021.09`
-_Student Researcher - Analytics, Information, and Operations Management_
+`2021.05 - present`
+_Adjunct Research Associate - Analytics, Information, and Operations Management_
 <br/>
 `2020.01 - 2020.05`
 _Research Assistant - Analytics, Information, and Operations Management_
