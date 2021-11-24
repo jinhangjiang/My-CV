@@ -40,6 +40,21 @@ __University of Kansas, Lawrence (KS)__
 
 
 
+## PREPRINTS
+`2021`
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN 3877615.
+
+
+
+## MANUSCRIPTS UNDER REVIEW
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
+
+
+
+
+## WORKING PAPERS
+__Jiang J.__, Srinivasan K. “Analyzing Patterns in U.S. Hospital Discharge Reporting During the COVID-19 Pandemic: A Graph Modeling Approach”
+
 
 ## RESEARCH EXPERIENCE
 __University of Kansas, Business Analytics, Lawrence (KS)__ <br/>
@@ -56,24 +71,8 @@ _Student Researcher - Social Media Analytics_
 
 
 
-
-
-
-
-## PREPRINTS
-`2021`
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN 3877615.
-
-
-
-## MANUSCRIPTS UNDER REVIEW
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
-
-
-
-
-## WORKING PAPERS
-__Jiang J.__, Srinivasan K. “Analyzing Patterns in U.S. Hospital Discharge Reporting During the COVID-19 Pandemic: A Graph Modeling Approach”
+## ACADEMIC SERVICE
+- Conference Reviwer: The 6th International Workshop on Health Intelligence (W3PHIAI-22), a workshop in conjunction with the Association for the Advancement of Artificial Intelligence (AAAI).
 
 
 
@@ -94,8 +93,6 @@ _Co-Founder & Supervisor_<br/>
 
 
 
-
-
 ## TEACHING EXPERIENCE
 __University of Kansas, Business Analytics, Overland Park (KS)__<br/>
 `2020.02 - 2020.04`
@@ -108,12 +105,6 @@ __Towards Data Science & Analytics Vidhya (Remote)__<br/>
 `2020.05 - present`
 _Data Science Journalist_<br/>
 
-
-## SELECT INDEPENDENT RESEARCH
-- Visualize High-Dimensional Network Data with 3D Animated Scatter Plot (Jun. 2021)
-- Customer Churn Accuracy: Increased 4.6% With TextBlob & SBERT (May 2021)
-- LOL Match Prediction Using Early Laning Phase Data (Nov. 2020)
-- Use R to Calculate Boilerplate for Accounting Analysis (May 2020)
 
 
 
