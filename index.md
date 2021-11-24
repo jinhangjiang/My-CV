@@ -72,7 +72,8 @@ _Student Researcher - Social Media Analytics_
 
 
 ## ACADEMIC SERVICE
-- Conference Reviwer: The 6th International Workshop on Health Intelligence (W3PHIAI-22), a workshop in conjunction with the Association for the Advancement of Artificial Intelligence (AAAI).
+__Conference Reviwer:__
+-  The 6th International Workshop on Health Intelligence (W3PHIAI-22), a workshop in conjunction with the Association for the Advancement of Artificial Intelligence (AAAI).
 
 
 
