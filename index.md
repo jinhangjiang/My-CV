@@ -73,6 +73,7 @@ _Student Researcher - Social Media Analytics_
 
 ## ACADEMIC SERVICE
 __Conference Reviwer:__
+-  The AIME 2022 (20th International Conference on Artificial Intelligence in Medicine)
 -  The 6th International Workshop on Health Intelligence (W3PHIAI-22), a workshop in conjunction with the Association for the Advancement of Artificial Intelligence (AAAI).
 
 
