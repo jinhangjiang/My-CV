@@ -82,8 +82,11 @@ __Walmart Global Tech__<br/>
 `2021.09 - present`
 _Pricing Data Scientist - Merchandising , Store Operations and Global Sourcing_
 
-__Smart Funding Inc.__<br/>
-`2021.08 - present`
+__Fathom Loop Inc.__<br/>
+`2022.02 - present`
+_Senior Machine Learning Engineer - UX & Customer Segmentation_
+
+`2021.08 - 2022.02`
 _Senior Research Associate - Data Enhancement and Algorithm Development_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
