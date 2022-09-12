@@ -69,7 +69,7 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 ## ML Package
 `2022`
-Jiang J., Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at https://doi.org/10.5281/zenodo.6853352
+__Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at https://doi.org/10.5281/zenodo.6853352
 
 
 
