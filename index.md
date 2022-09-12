@@ -40,22 +40,6 @@ __University of Kansas, Lawrence (KS)__
 
 
 
-## PREPRINTS
-`2021`
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN 3877615.
-
-
-
-## MANUSCRIPTS UNDER REVIEW
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, under review with International Journal of Data Mining and Bioinformatics.
-
-
-
-
-## WORKING PAPERS
-__Jiang J.__, Srinivasan K. “Analyzing Patterns in U.S. Hospital Discharge Reporting During the COVID-19 Pandemic: A Graph Modeling Approach”
-
-
 ## RESEARCH EXPERIENCE
 __University of Kansas, Business Analytics, Lawrence (KS)__ <br/>
 `2021.05 - present`
@@ -71,15 +55,47 @@ _Student Researcher - Social Media Analytics_
 
 
 
+## Journal Paper
+`2022`
+Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach”, ACM Transactions on Management Information System, accepted on Sept. 3, 2022. 
+
+
+
+## PREPRINT
+`2021`
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis”, available at SSRN 3877615.
+
+
+
+## ML Package
+`2022`
+Jiang J., Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at https://doi.org/10.5281/zenodo.6853352, 2022 
+
+
+
+## WORKING PAPERS
+__Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
+__Jiang et al.__ “Economic Uncertainty Forecasting with Social Media Data”
+
+
+
 ## ACADEMIC SERVICE
-__Conference Reviwer:__
--  The AIME 2022 (20th International Conference on Artificial Intelligence in Medicine)
--  The 6th International Workshop on Health Intelligence (W3PHIAI-22), a workshop in conjunction with the Association for the Advancement of Artificial Intelligence (AAAI).
+__PC Member:__ 
+- FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022. 
+- CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM. 
+
+__Journal Manuscript Reviewer:__ 
+- Journal of Open Source Software 
+
+__Conference & Workshop Reviewer:__ 
+- BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
+- AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
+- W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence.
 
 
 
 ## INDUSTRY WORK EXPERIENCE
-__Walmart Global Tech__<br/>
+__Walmart Inc.__<br/>
 `2021.09 - present`
 _Pricing Data Scientist - Merchandising , Store Operations and Global Sourcing_
 
@@ -112,7 +128,6 @@ _Data Science Journalist_<br/>
 
 
 
-
 ## CASE COMPETITION EXPERIENCE
 
 `2021`
@@ -128,6 +143,7 @@ __H&R Block & University of Kansas Machine Learning Competition__
 - Ranked 2nd place out of 7 teams
 
 
+
 ## SELECT COURSEWORK
 ### _ARIZONA STATE UNIVERSITY_:
 - __Enterprise Analytics__, MySQL, database management, and data visualization
@@ -136,8 +152,11 @@ __H&R Block & University of Kansas Machine Learning Competition__
 - __Marketing Analytics__, R, developing analytical methods and applying statistical and mathematical tools to predict consumer behavior
 - __Data Mining__, Python, machine learning, computer vision,  natural language processing and predictive analytics on both structured and unstructured data
 
+
+
 ### _UNIVERSITY OF KANSAS_:
 Machine Learning with R; Data Mining & Predictive Analytics; Information Security Business Policy and Strategy; Quantitative Methods & Data Analysis
+
 
 
 ## RELEVANT SKILLS
@@ -157,6 +176,7 @@ __Platforms & Softwares__:
 - Coding editors: R Studio, Oracle SQL Developer, MySQL Workbench, Jupyter Notebook, Spyder, Google Colab, pgAdmin
 - Big data: Hive, Apache Spark
 - Visualiztion: Power BI, Oracle Analytics Cloud, Tableau
+
 
 
 ## REFERENCES
