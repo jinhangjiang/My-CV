@@ -74,23 +74,23 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 
 
 ## WORKING PAPERS
-__Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
-__Jiang et al.__ “Economic Uncertainty Forecasting with Social Media Data”
+* __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
+* __Jiang et al.__ “Economic Uncertainty Forecasting with Social Media Data”
 
 
 
 ## ACADEMIC SERVICE
 __PC Member:__ 
-- FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022. 
-- CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM. 
+* FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022. 
+* CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM. 
 
 __Journal Manuscript Reviewer:__ 
-- Journal of Open Source Software 
+* Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
-- BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
-- AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
-- W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence.
+* BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
+* AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
+* W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence.
 
 
 
