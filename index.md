@@ -82,7 +82,7 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 
 ## Referenced Conference and Workshop Proceedings
 `2021.12`
-* Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
+Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
 
 
