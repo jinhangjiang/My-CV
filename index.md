@@ -106,18 +106,20 @@ __Walmart Inc.__<br/>
 `2021.09 - present`
 _Pricing Data Scientist - Merchandising , Store Operations and Global Sourcing_
 
-__Fathom Loop Inc.__<br/>
-`2022.02 - present`
-_Senior Machine Learning Engineer - UX & Customer Segmentation_
-
-`2021.08 - 2022.02`
-_Senior Research Associate - Data Enhancement and Algorithm Development_
-
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.09 - present`
 _Chief Technology Officer_<br/>
 `2019.08 - present`
 _Co-Founder & Supervisor_<br/>
+
+__Fathom Loop Inc.__<br/>
+`2022.02 - 2022.06`
+_Senior Machine Learning Engineer - UX & Customer Segmentation_
+
+`2021.08 - 2022.02`
+_Senior Research Associate - Data Enhancement and Algorithm Development_
+
+
 
 
 
