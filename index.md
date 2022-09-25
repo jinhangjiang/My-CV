@@ -87,6 +87,8 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 
 ## ACADEMIC SERVICE
+**Number of reviewed papers: 6**
+<br/>
 __PC Member:__ 
 * FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022. 
 * CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM. 
