@@ -105,7 +105,7 @@ __Conference & Workshop Reviewer:__
 ## INDUSTRY WORK EXPERIENCE
 __Walmart Inc.__<br/>
 `2021.09 - present`
-_Pricing Data Scientist - Merchandising , Store Operations and Global Sourcing_
+_Data Scientist - Merchandising, Store Operations and Global Sourcing_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.09 - present`
