@@ -57,17 +57,17 @@ _Student Researcher - Social Media Analytics_
 
 ## Journal Paper
 `2022`
-Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. Just Accepted (September 2022). https://doi.org/10.1145/3564274(https://doi.org/10.1145/3564274)
+Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. Just Accepted (September 2022). https://doi.org/10.1145/3564274[https://doi.org/10.1145/3564274]
 <br/>
 <br/>
 `2021`
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." J. Digit. Sci. 3(2), 37 – 52 (2021). https://doi.org/10.33847/2686-8296.3.2_2(https://doi.org/10.33847/2686-8296.3.2_2)
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." J. Digit. Sci. 3(2), 37 – 52 (2021). https://doi.org/10.33847/2686-8296.3.2_2[https://doi.org/10.33847/2686-8296.3.2_2]
 
 
 
 ## ML Package
 `2022`
-__Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at https://doi.org/10.5281/zenodo.6853352(https://doi.org/10.5281/zenodo.6853352)
+__Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at https://doi.org/10.5281/zenodo.6853352[https://doi.org/10.5281/zenodo.6853352]
 
 
 
