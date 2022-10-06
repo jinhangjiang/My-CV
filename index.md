@@ -19,7 +19,7 @@ Data Scientist at Walmart Global Tech
 
 ### RESEARCH INTERESTS
 
-Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics, Big Data, Operation Research.
+Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics, Big Data, Operation Research.
 
 
 
