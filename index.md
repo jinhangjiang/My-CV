@@ -85,7 +85,7 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 
 ## ACADEMIC SERVICE
-**Number of reviewed papers: 10**
+**Number of papers reviewed: 11**
 <br/>
 <br/>
 __PC Member:__ 
