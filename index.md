@@ -140,6 +140,9 @@ _Data Science Journalist_<br/>
 
 
 ## CASE COMPETITION EXPERIENCE
+`2022`
+__WiDS Datathon 2022__
+- Ranked 194 out of 829
 
 `2021`
 __CommonLit Readability Prize, Featured Kaggle Competition__
