@@ -19,7 +19,7 @@ Data Scientist at Walmart Global Tech
 
 ### RESEARCH INTERESTS
 
-Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Social Media Analytics, Game Analytics, Big Data, Operation Research.
+Social Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Demand Forecasting, Social Media Analytics, Game Analytics, Big Data, Operation Research.
 
 
 
@@ -85,7 +85,7 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 
 ## ACADEMIC SERVICE
-**Number of papers reviewed: 11**
+**Number of papers reviewed: 13**
 <br/>
 <br/>
 __PC Member:__ 
@@ -96,6 +96,7 @@ __Journal Manuscript Reviewer:__
 * Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
+* HITS 2022, HITS-Health Information Technology Symposium, a pre-conference activity of the International Conference on Information Systems
 * BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
 * AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
 * W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence.
