@@ -85,7 +85,7 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 
 ## ACADEMIC SERVICE
-**Number of reviewed papers: 13**
+**Number of papers reviewed : 16**
 <br/>
 <br/>
 __PC Member:__ 
@@ -96,6 +96,7 @@ __Journal Manuscript Reviewer:__
 * Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
+* CSIT 2022, IEEE 17th International Conference on Computer Science and Information Technologies
 * HITS 2022, Health Information Technology Symposium, a pre-conference activity of the International Conference on Information Systems
 * BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
 * AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
