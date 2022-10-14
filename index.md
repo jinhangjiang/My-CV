@@ -88,7 +88,7 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 
 ## ACADEMIC SERVICE
-**Number of papers reviewed : 16**
+**Number of papers reviewed : 17**
 <br/>
 <br/>
 __PC Member:__ 
@@ -103,7 +103,8 @@ __Conference & Workshop Reviewer:__
 * HITS 2022, Health Information Technology Symposium, a pre-conference activity of the International Conference on Information Systems
 * BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
 * AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
-* W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence.
+* W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence
+* RACS 2022, 1st International Conference on Recent Advances in Computing Sciences
 
 
 
