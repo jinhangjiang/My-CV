@@ -56,6 +56,7 @@ _Student Researcher - Social Media Analytics_
 
 
 ## Journal Paper
+**Number of peer-reviewed papers : 2**
 `2022`
 Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. Just Accepted (September 2022). [https://doi.org/10.1145/3564274](https://doi.org/10.1145/3564274)
 <br/>
