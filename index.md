@@ -68,6 +68,12 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 
+## Referenced Conference and Workshop Proceedings
+`2021.12`
+Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
+
+
+
 ## ML Package
 `2022`
 __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
@@ -78,12 +84,6 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
 * __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
 * __Jiang et al.__ “Economic Uncertainty Forecasting with Social Media Data”
-
-
-
-## Referenced Conference and Workshop Proceedings
-`2021.12`
-Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
 
 
