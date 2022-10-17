@@ -92,20 +92,20 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 <br/>
 <br/>
 __PC Member:__ 
-* FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022. 
-* CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM. 
+* [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
+* [CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2022/)
 
 __Journal Manuscript Reviewer:__ 
 * Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
-* IDDM 2022, 5th International Conference on Informatics & Data-Driven Medicine
-* CSIT 2022, IEEE 17th International Conference on Computer Science and Information Technologies
-* HITS 2022, Health Information Technology Symposium, a pre-conference activity of the International Conference on Information Systems
-* BlackboxNLP 2022, 5th edition of BlackboxNLP in conjunction with EMNLP 2022 
-* AIME 2022, 20th International Conference on Artificial Intelligence in Medicine 
-* W3PHIAI 2022, 6th International Workshop on Health Intelligence of the Association for the Advancement of Artificial Intelligence
-* RACS 2022, 1st International Conference on Recent Advances in Computing Sciences
+* International Conference on Informatics & Data-Driven Medicine (IDDM)
+* IEEE International Conference on Computer Science and Information Technologies (CSIT)
+* International Conference on Information Systems (ICIS)
+* Conference on Empirical Methods in Natural Language Processing (EMNLP)
+* International Conference on Artificial Intelligence in Medicine (AIME)
+* Association for the Advancement of Artificial Intelligence (AAAI)
+* International Conference on Recent Advances in Computing Sciences (RACS)
 
 
 
