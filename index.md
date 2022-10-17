@@ -4,7 +4,7 @@ title: Jinhang Jiang's CV
 ---
 # Jinhang Jiang
 ### <a href="http://jinhangjiang.com">HOMEPAGE</a>
-Data Scientist at Walmart Global Tech
+Data Scientist at Walmart Inc.
 
 
 <div id="webaddress">
