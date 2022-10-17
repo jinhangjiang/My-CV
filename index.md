@@ -104,7 +104,7 @@ __Conference & Workshop Reviewer:__
 * International Conference on Information Systems (ICIS)
 * Conference on Empirical Methods in Natural Language Processing (EMNLP)
 * International Conference on Artificial Intelligence in Medicine (AIME)
-* Association for the Advancement of Artificial Intelligence (AAAI)
+* Conference on Artificial Intelligence (AAAI)
 * International Conference on Recent Advances in Computing Sciences (RACS)
 
 
