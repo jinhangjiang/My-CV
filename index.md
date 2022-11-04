@@ -90,7 +90,9 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 ## ACADEMIC SERVICE
 
 
-#### **Number of papers reviewed : 21**
+**Number of papers reviewed : 21**
+<br/>
+<br/>
 __Grant Reviewer__
 `2022. 11 - present`
 * NSF GRFP Reviewer
