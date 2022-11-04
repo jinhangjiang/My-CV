@@ -94,8 +94,8 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 <br/>
 <br/>
 __Grant Reviewer__
-`2022. 11 - present`
-* NSF GRFP Reviewer
+
+* NSF GRFP Reviewer `2022. 11 - present`
 
 __PC Member:__ 
 * [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
