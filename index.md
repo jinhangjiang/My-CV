@@ -98,6 +98,7 @@ __Grant Reviewer__
 
 
 __PC Member:__ 
+* [W3PHIAI-23, 7th International Workshop on Health Intelligence in conjunction with AAAI 2023.](http://w3phiai2023.w3phi.com/organizing-committee.html)
 * [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
 * [CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2022/)
 
