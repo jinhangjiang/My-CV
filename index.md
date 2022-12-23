@@ -152,9 +152,9 @@ _Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<b
 
 
 ## FREELANCING EXPERIENCE
-__Towards Data Science & Analytics Vidhya (Remote)__<br/>
+__Data Science Writer (438 followers, 125K views)__<br/>
 `2020.05 - present`
-_Data Science Journalist_<br/>
+_Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
 
 
 
