@@ -8,8 +8,7 @@ Data Scientist at Walmart Inc.
 
 
 <div id="webaddress">
-<a href="mailto: http://jinhangjiang.com">jinhangjiang.com</a>
-| <a href="mailto: jinhang@asu.edu">jinhang@asu.edu</a>
+<a href="mailto: jinhang@asu.edu">jinhang@asu.edu</a>
 | <a href="mailto: https://www.linkedin.com/in/jinhangjiang/">linkedin.com/in/jinhangjiang</a>
 </div>
 
@@ -56,11 +55,15 @@ _Student Researcher - Social Media Analytics_
 
 
 ## Journal Paper
-**Number of peer-reviewed papers : 2**
+**Number of peer-reviewed papers : 3**
 <br/>
 <br/>
 `2022`
 Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. Just Accepted (September 2022). [https://doi.org/10.1145/3564274](https://doi.org/10.1145/3564274)
+<br/>
+<br/>
+`2022`
+Jiang, J., & Srinivasan, K. (2022). MoreThanSentiments: A text analysis package. Software Impacts, 100456. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
 <br/>
 <br/>
 `2021`
@@ -212,4 +215,4 @@ __Victor Benjamin__
 
 <!-- ### Footer
 
-Last updated: June 29, 2021 -->
+Last updated: Dec 22, 2022 -->
