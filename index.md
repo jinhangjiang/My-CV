@@ -63,7 +63,7 @@ Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital
 <br/>
 <br/>
 `2022`
-Jiang, J., & Srinivasan, K. (2022). MoreThanSentiments: A text analysis package. Software Impacts, 100456. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
+__Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Software Impacts, 100456 (2022). [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
 <br/>
 <br/>
 `2021`
