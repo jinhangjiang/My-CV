@@ -9,7 +9,7 @@ Data Scientist at Walmart Inc.
 
 <div id="webaddress">
 <a href="mailto: jinhang@asu.edu">jinhang@asu.edu</a>
-| <a href="mailto: https://www.linkedin.com/in/jinhangjiang/">linkedin.com/in/jinhangjiang</a>
+| <a href="https://www.linkedin.com/in/jinhangjiang/">linkedin.com/in/jinhangjiang</a>
 </div>
 
 
