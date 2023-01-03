@@ -152,7 +152,7 @@ _Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<b
 
 
 ## FREELANCING EXPERIENCE
-__Data Science Writer (590+ followers, 130K+ views)__<br/>
+__Data Science Writer (590+ followers, 150K+ views)__<br/>
 `2020.05 - present`
 _Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
 
