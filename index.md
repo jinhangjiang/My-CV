@@ -84,10 +84,10 @@ __Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, ava
 
 
 ## Working Papers
-* __Jiang J.__ "Automatic Model Flip Framework"
+* __Jiang et al.__ "Automatic Model Flip Framework"
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
 * __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
-* __Jiang et al.__ “Economic Uncertainty Forecasting with Social Media Data”
+* __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 
 
