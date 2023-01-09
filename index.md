@@ -79,7 +79,7 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 
 ## ML Package
 `2022`
-__Jiang J.__, Srinivasan K. “MoreThanSentiments: Text Analysis Package”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
+__Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
 
 
 
