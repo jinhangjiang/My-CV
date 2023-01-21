@@ -93,6 +93,8 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## INVITED TALK & PRESENTATION
 '2022.11'
 * Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas
+<br/>
+
 '2021.09'
 * The Future of Data Science and Business Analytics, AI Club, University of Kansas
 
