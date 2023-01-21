@@ -54,7 +54,7 @@ _Student Researcher - Social Media Analytics_
 
 
 
-## Journal Paper
+## JOURNAL PAPER
 **Number of peer-reviewed papers : 3**
 <br/>
 <br/>
@@ -71,25 +71,30 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 
-## Referenced Conference and Workshop Proceedings
+## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
 
 
-## ML Package
+## ML PACKAGE
 `2022`
 __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
 
 
 
-## Working Papers
+## WORKING PAPERS
 * __Jiang et al.__ "Automatic Model Flip Framework"
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
 * __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 
+## INVITED TALK & PRESENTATION
+'2022.11'
+* Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas
+'2021.09'
+* The Future of Data Science and Business Analytics, AI Club, University of Kansas
 
 ## ACADEMIC SERVICE
 
