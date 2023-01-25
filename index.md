@@ -58,16 +58,16 @@ _Student Researcher - Social Media Analytics_
 **Number of peer-reviewed papers : 3**
 <br/>
 <br/>
-`2022`
-Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. Just Accepted (September 2022). [https://doi.org/10.1145/3564274](https://doi.org/10.1145/3564274)
+`2023`
+Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. [https://doi.org/10.1145/3564274](https://doi.org/10.1145/3564274)
 <br/>
 <br/>
 `2022`
-__Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Software Impacts, 100456 (2022). [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
+__Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Software Impacts. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
 <br/>
 <br/>
 `2021`
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." J. Digit. Sci. 3(2), 37 – 52 (2021). [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
+__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
 
 
 
