@@ -159,47 +159,12 @@ _Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<b
 
 
 ## FREELANCING EXPERIENCE
-__Data Science Writer (590+ followers, 150K+ views)__<br/>
+__Data Science Writer (590+ followers, 190K+ views)__<br/>
 `2020.05 - present`
 _Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
 
 
 
-## CASE COMPETITION EXPERIENCE
-`2022`
-__WiDS Datathon 2022__
-- Ranked 194 out of 829
-
-`2021`
-__CommonLit Readability Prize, Featured Kaggle Competition__
-- Ranked top 30% out of 3600+ teams
-
-`2020`
-__Humana-Mays Healthcare Analytics Case Competition__
-- Ranked top 50 teams out of 250+ teams
-
-`2019`
-__H&R Block & University of Kansas Machine Learning Competition__                 
-- Ranked 2nd place out of 7 teams
-
-
-## RELEVANT SKILLS
-__Programming Languages__: 
-- Python
-- R
-- SQL 
-
-__Technical Expertise & Select Models__: 
--	Natural Language Processing: _(e.g., Scikit-learn, Transformers, LSTM, TextBlob, spaCy, PyTorch)_
--	Network Analysis: _(e.g., NetworkX, Node2vec, ERGM, NBM, LNM, K-Means Clustering)_
--	Image Analysis: _(e.g., ImageNet, Google NIMA, VGG-16, CNN)_
--	Machine Learning: _(e.g., SVM, Random Forests, XGBoost, LightGBM, TensorFlow)_
--	Data Processing & Visualization: _(e.g., Pandas, NumPy, Matplotlib, Seaborn, T-SNE)_
-
-__Platforms & Softwares__:
-- Coding editors: R Studio, Oracle SQL Developer, MySQL Workbench, Jupyter Notebook, Spyder, Google Colab, pgAdmin
-- Big data: Hive, Apache Spark
-- Visualiztion: Power BI, Oracle Analytics Cloud, Tableau
 
 
 
