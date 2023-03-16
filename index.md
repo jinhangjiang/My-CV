@@ -92,6 +92,9 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 
 ## INVITED TALK & PRESENTATION
 `2022.11`
+* Learn Data Science with A Production Mindset, Information Technology Seminar, Computer Science Department, Southern Arkansas University
+
+`2022.11`
 * Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas
 
 `2021.09`
