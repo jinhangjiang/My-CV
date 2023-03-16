@@ -92,11 +92,11 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 
 
 ## INVITED TALK & PRESENTATION
-- Learn Data Science with A Production Mindset, Information Technology Seminar, Computer Science Department, Southern Arkansas University, March 2023
-
-- Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas, November 2022
-
-- The Future of Data Science and Business Analytics, AI Club, University of Kansas, September 2021
+Learn Data Science with A Production Mindset, Information Technology Seminar, Computer Science Department, Southern Arkansas University, March 2023
+<br/>
+Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas, November 2022
+<br/>
+The Future of Data Science and Business Analytics, AI Club, University of Kansas, September 2021
 
 ## ACADEMIC SERVICE
 
