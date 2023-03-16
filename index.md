@@ -84,6 +84,7 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 
 
 ## WORKING PAPERS
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail"
 * __Jiang et al.__ "Automatic Model Flip Framework"
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
 * __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
