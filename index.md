@@ -69,18 +69,17 @@ __Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Softw
 `2021`
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
 
-
-
-## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
-`2021.12`
-Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
-
 ## WORKING PAPERS
 * __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail"
 * Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting"
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
 * __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
+
+## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
+`2021.12`
+Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
+
 
 ## ML PACKAGE
 `2022`
