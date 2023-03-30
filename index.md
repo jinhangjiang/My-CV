@@ -75,20 +75,16 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
-
+## WORKING PAPERS
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail"
+* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting"
+* __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
+* __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
+* __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 ## ML PACKAGE
 `2022`
 __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
-
-
-
-## WORKING PAPERS
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail"
-* __Jiang et al.__ "Automatic Model Flip Framework"
-* __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data，” under review with International Journal of Data Science
-* __Jiang et al.__ “Predict the Q Ratio of the Public Companies with the Text Data in Annual Report” 
-* __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 
 ## INVITED TALK & PRESENTATION
@@ -162,7 +158,7 @@ _Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<b
 
 
 ## FREELANCING EXPERIENCE
-__Data Science Writer (590+ followers, 190K+ views)__<br/>
+__Data Science Writer (26 articles, 600+ followers, 200K+ views)__<br/>
 `2020.05 - present`
 _Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
 
