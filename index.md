@@ -70,10 +70,10 @@ __Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Softw
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
 
 ## WORKING PAPERS
-* __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data,” under review with International Journal of Data Science
-* __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," under review at Walmart SpartTech Summit
-* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SpartTech Summit
+* __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data,” under review with International Journal of Data Science<br/>
+* __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/>
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," under review at Walmart SpartTech Summit<br/>
+* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SpartTech Summit<br/>
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 ## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
