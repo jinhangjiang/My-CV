@@ -72,8 +72,8 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 ## WORKING PAPERS
 * __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data,” under review with International Journal of Data Science<br/> <br/>
 * __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," under review at Walmart SpartTech Summit 2023 <br/> <br/>
-* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SpartTech Summit 2023 <br/> <br/>
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," under review at Walmart SparkTech Summit 2023 <br/> <br/>
+* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SparkTech Summit 2023 <br/> <br/>
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 ## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
