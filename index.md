@@ -100,7 +100,7 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## ACADEMIC SERVICE
 
 
-**Number of papers reviewed : 26**
+**Number of papers reviewed : 29**
 <br/>
 **Number of grant-applications reviewed : 20**
 <br/>
@@ -119,6 +119,7 @@ __Journal Manuscript Reviewer:__
 * Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
+* International Conference on Information Systems (ICIS)
 * Midwest United States Association for Information Systems Conference (MWAIS)
 * International Conference on Informatics & Data-Driven Medicine (IDDM)
 * IEEE International Conference on Computer Science and Information Technologies (CSIT)
