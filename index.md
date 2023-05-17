@@ -40,11 +40,6 @@ __University of Kansas, Lawrence (KS)__
 
 
 ## RESEARCH EXPERIENCE
-__University of Kansas, Business Analytics__ <br/>
-`2020.01 - present`
-_Adjunct Researcher - Analytics, Information, and Operations Management_
-<br/>
-
 __Shandong University of Finance and Economics, The Industrial Development Research Institute__ <br/>
 `2023.01 - present`
 _Senior Research Fellow - Computational Economics_
@@ -54,7 +49,10 @@ __Arizona State University, Adidas Actionable Analytics Lab__<br/>
 `2020.10 - 2021.05`
 _Student Researcher - Social Media Analytics_
 
-
+__University of Kansas, Business Analytics__ <br/>
+`2020.01 - 2020.5`
+_Research Assistant - Analytics, Information, and Operations Management_
+<br/>
 
 ## JOURNAL PAPER
 **Number of peer-reviewed papers : 3**
