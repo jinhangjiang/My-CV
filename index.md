@@ -45,6 +45,11 @@ __Shandong University of Finance and Economics, The Industrial Development Resea
 _Senior Research Fellow - Computational Economics_
 <br/>
 
+__University of Kansas, Business Analytics__ <br/>
+`2021.05 - 2023.05`
+_Volunteer Researcher - Analytics, Information, and Operations Management_
+<br/>
+
 __Arizona State University, Adidas Actionable Analytics Lab__<br/>
 `2020.10 - 2021.05`
 _Student Researcher - Social Media Analytics_
