@@ -60,7 +60,12 @@ _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 
 ## JOURNAL PAPER
-**Number of peer-reviewed papers : 3**
+**Number of peer-reviewed papers : 4**
+<br/>
+<br/>
+`2023`
+__Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital
+Discharge Data.” Int. J. Data Science (Just Accepted)
 <br/>
 <br/>
 `2023`
@@ -103,7 +108,7 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## ACADEMIC SERVICE
 
 
-**Number of papers reviewed : 29**
+**Number of papers reviewed : 30**
 <br/>
 **Number of grant-applications reviewed : 20**
 <br/>
