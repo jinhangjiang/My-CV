@@ -86,7 +86,10 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 * Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SparkTech Summit 2023 <br/> <br/>
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
-## REFERENCED CONFERENCE & WORKSHOP PROCEEDINGS
+## REFERENCED CONFERENCE
+`2023.09`
+__Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," SBP-BRiMS 2023
+
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
