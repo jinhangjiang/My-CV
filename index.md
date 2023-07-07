@@ -60,7 +60,7 @@ _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 
 ## JOURNAL PAPER
-**Number of peer-reviewed papers : 4**
+**Number of peer-reviewed papers: 4**
 <br/>
 <br/>
 `2023`
@@ -80,15 +80,14 @@ __Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Softw
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
 
 ## WORKING PAPERS
-* __Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital Discharge Data,” under review with International Journal of Data Science<br/> <br/>
 * __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," under review at Walmart SparkTech Summit 2023 <br/> <br/>
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," <br/> <br/>
 * Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SparkTech Summit 2023 <br/> <br/>
 * __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 ## REFERENCED CONFERENCE
 `2023.09`
-__Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," SBP-BRiMS 2023
+__Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2023)
 
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
@@ -111,9 +110,9 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## ACADEMIC SERVICE
 
 
-**Number of papers reviewed : 30**
+**Number of papers reviewed: 30**
 <br/>
-**Number of grant-applications reviewed : 20**
+**Number of grant-applications reviewed: 20**
 <br/>
 <br/>
 __Grant Reviewer__
@@ -144,7 +143,7 @@ __Conference & Workshop Reviewer:__
 ## INDUSTRY WORK EXPERIENCE
 __Walmart Inc.__<br/>
 `2021.09 - present`
-_Data Scientist - Merchandising, Store Operations and Global Sourcing_
+_Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.09 - present`
