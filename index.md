@@ -18,7 +18,7 @@ Data Scientist at Walmart Inc.
 
 ### RESEARCH INTERESTS
 
-Social Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Demand Forecasting, Social Media Analytics, Game Analytics, Big Data, Operation Research.
+Social Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Demand Forecasting, Social Media Analytics, Game Analytics, Big Data, and Operation Research.
 
 
 
@@ -59,13 +59,12 @@ __University of Kansas, Business Analytics__ <br/>
 _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 
-## JOURNAL PAPER
-**Number of peer-reviewed papers: 4**
+## PEER-REVIEWED JOURNAL PAPER (Count: 4)
 <br/>
 <br/>
 `2023`
-__Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital
-Discharge Data.” Int. J. Data Science (Just Accepted)
+__Jiang J.__, Srinivasan K. (in press) “A Discrete Bayesian Network for Analyzing Hospital
+Discharge Data.” Int. J. Data Science [htts://doi.org/10.1504/IJDS.2024.10058157](htts://doi.org/10.1504/IJDS.2024.10058157)
 <br/>
 <br/>
 `2023`
@@ -79,11 +78,6 @@ __Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Softw
 `2021`
 __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
 
-## WORKING PAPERS
-* __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," <br/> <br/>
-* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," under review at Walmart SparkTech Summit 2023 <br/> <br/>
-* __Jiang et al.__ “Uncovering Economic Uncertainty Through Reddit Analysis”
 
 ## REFERENCED CONFERENCE
 `2023.12`
@@ -95,6 +89,10 @@ __Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedd
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
 
+## WORKING PAPERS
+* __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
+* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," to be submitted. <br/> <br/>
+* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," to be submitted <br/> <br/>
 
 ## ML PACKAGE
 `2022`
@@ -202,4 +200,4 @@ __Victor Benjamin__
 
 <!-- ### Footer
 
-Last updated: Dec 22, 2022 -->
+Last updated: Aug 05, 2023 -->
