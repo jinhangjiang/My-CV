@@ -42,7 +42,7 @@ __University of Kansas, Lawrence (KS)__
 ## RESEARCH EXPERIENCE
 __Shandong University of Finance and Economics, The Industrial Development Research Institute__ <br/>
 `2023.01 - present`
-_Senior Research Fellow - Computational Economics_
+_Senior Researcher - Computational Economics_
 <br/>
 
 __University of Kansas, Business Analytics__ <br/>
