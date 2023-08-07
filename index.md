@@ -87,7 +87,7 @@ __Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertain
 __Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2023)
 
 `2021.12`
-Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop
+Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS 2021)
 
 ## WORKING PAPERS
 * __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
