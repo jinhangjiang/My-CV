@@ -64,7 +64,7 @@ _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 `2023`
 __Jiang J.__, Srinivasan K. (in press) “A Discrete Bayesian Network for Analyzing Hospital
-Discharge Data.” Int. J. Data Science [htts://doi.org/10.1504/IJDS.2024.10058157](htts://doi.org/10.1504/IJDS.2024.10058157)
+Discharge Data.” Int. J. Data Science [https://doi.org/10.1504/IJDS.2024.10058157](https://doi.org/10.1504/IJDS.2024.10058157)
 <br/>
 <br/>
 `2023`
