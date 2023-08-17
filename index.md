@@ -84,7 +84,7 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 __Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)
 
 `2023.10`
-__Jiang et al.__ "Dynamic Network Modeling of Retail Data Reveals Opportunities for Cross-Selling and Demand Forecasting," Informs Workshop on Data Science (WDS 2023)
+__Jiang et al.__ "Dynamic Network Modeling of Retail Data Reveals Opportunities for Cross-Selling and Demand Forecasting," 7th Informs Workshop on Data Science (WDS 2023)
 
 `2023.09`
 __Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2023)
@@ -203,4 +203,4 @@ __Victor Benjamin__
 
 <!-- ### Footer
 
-Last updated: Aug 05, 2023 -->
+Last updated: Aug 17, 2023 -->
