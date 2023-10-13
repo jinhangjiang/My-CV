@@ -81,6 +81,9 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 ## REFERENCED CONFERENCE
 `2023.12`
+__Jiang J.__, Srinivasan K., "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
+
+`2023.12`
 __Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)
 
 `2023.10`
@@ -124,6 +127,8 @@ __Grant Reviewer__
 
 
 __PC Member:__ 
+* [ICWSM 24, 18TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA](https://www.icwsm.org/2024/index.html/#program_committee)
+* [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2023.](https://w3phiai2024.w3phi.com/organizing-committee.html)
 * [FinNLP 2023, 5th Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI-2023.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2023/organizations?authuser=0)
 * [W3PHIAI-23, 7th International Workshop on Health Intelligence in conjunction with AAAI 2023.](http://w3phiai2023.w3phi.com/organizing-committee.html)
 * [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
