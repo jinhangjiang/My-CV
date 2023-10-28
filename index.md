@@ -151,7 +151,9 @@ __Conference & Workshop Reviewer:__
 
 ## INDUSTRY WORK EXPERIENCE
 __Walmart Inc.__<br/>
-`2021.09 - present`
+`2023.10 - present`
+_Sr. Data Scientist - Transportation_
+`2021.09 - 2023.10`
 _Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI_
 
 __Shanghai JunGe Management Consulting Co. Ltd__<br/>
