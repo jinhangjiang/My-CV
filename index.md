@@ -18,8 +18,7 @@ Data Scientist at Walmart Inc.
 
 ### RESEARCH INTERESTS
 
-Social Network Analysis, Natural Language Processing, Computational Linguistics, Healthcare Information System, Statistical Machine Learning, Demand Forecasting, Social Media Analytics, Game Analytics, Big Data, and Operation Research.
-
+Demand Forecasting, Social Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning
 
 
 
@@ -72,7 +71,7 @@ Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital
 <br/>
 <br/>
 `2022`
-__Jiang, J.__, Srinivasan, K. MoreThanSentiments: A text analysis package. Software Impacts. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
+__Jiang, J.__, Srinivasan, K. "MoreThanSentiments: A text analysis package." Software Impacts. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
 <br/>
 <br/>
 `2021`
@@ -117,7 +116,7 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## ACADEMIC SERVICE
 
 
-**Number of papers reviewed: 34**
+**Number of papers reviewed: 37**
 <br/>
 **Number of grant-applications reviewed: 20**
 <br/>
@@ -127,6 +126,8 @@ __Grant Reviewer__
 
 
 __PC Member:__ 
+* [ER 2024, 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/conference-organization.cfm)
+* [FinNLP 2024, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/home)
 * [ICWSM 24, 18TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA](https://www.icwsm.org/2024/index.html/#program_committee)
 * [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2023.](https://w3phiai2024.w3phi.com/organizing-committee.html)
 * [FinNLP 2023, 5th Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI-2023.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2023/organizations?authuser=0)
@@ -150,8 +151,12 @@ __Conference & Workshop Reviewer:__
 
 
 ## INDUSTRY WORK EXPERIENCE
+__McKesson Corporation__<br/>
+`2024.02 - present`
+_Sr. Data Scientist - McKesson Technology_
+
 __Walmart Inc.__<br/>
-`2023.10 - present`
+`2023.10 - 2024.02`
 _Sr. Data Scientist - Transportation_
 `2021.09 - 2023.10`
 _Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI_
