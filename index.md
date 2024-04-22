@@ -155,7 +155,7 @@ _Sr. Data Scientist - McKesson Technology_
 
 __Walmart Inc.__<br/>
 `2023.10 - 2024.02`
-_Sr. Data Scientist - Transportation_
+_Sr. Data Scientist - Transportation_<br/>
 `2021.09 - 2023.10`
 _Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI_
 
@@ -163,7 +163,7 @@ __Shanghai JunGe Management Consulting Co. Ltd__<br/>
 `2021.09 - present`
 _Chief Technology Officer_<br/>
 `2019.08 - present`
-_Co-Founder & Supervisor_<br/>
+_Co-Founder & Supervisor_
 
 __Fathom Loop Inc.__<br/>
 `2022.02 - 2022.06`
