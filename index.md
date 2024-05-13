@@ -94,6 +94,9 @@ __Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedd
 `2021.12`
 Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS 2021)
 
+## PREPRINTS
+* __Jiang et al.__ "Exploring Opportunities for Cross-Selling and Demand Forecasting in Retail Using Explanatory Graph Analytics." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4742875](http://dx.doi.org/10.2139/ssrn.4742875)
+
 ## WORKING PAPERS
 * __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
 * __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," to be submitted. <br/> <br/>
@@ -124,8 +127,10 @@ __Grant Reviewer__
 
 
 __PC Member:__ 
+* [CADSCOM 2024, 5th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2024/)
+* [FinNLP 2024, Joint Workshop of the 8th Financial Technology and Natural Language Processing (FinNLP) and the 1st Agent AI for Scenario Planning (AgentScen)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/organizations)
 * [ER 2024, 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/conference-organization.cfm)
-* [FinNLP 2024, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/home)
+* [FinNLP 2024, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/organizations)
 * [ICWSM 24, 18TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA](https://www.icwsm.org/2024/index.html/#program_committee)
 * [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2023.](https://w3phiai2024.w3phi.com/organizing-committee.html)
 * [FinNLP 2023, 5th Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI-2023.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2023/organizations?authuser=0)
