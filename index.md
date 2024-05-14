@@ -80,7 +80,7 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 ## REFERENCED CONFERENCE
 `2023.12`
-__Jiang J.__, Srinivasan K., "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
+Srinivasan K., __Jiang J.__ "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
 
 `2023.12`
 __Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)
