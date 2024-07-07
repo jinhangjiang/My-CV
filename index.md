@@ -127,6 +127,7 @@ __Grant Reviewer__
 
 
 __PC Member:__ 
+* [FinNLP 2025, Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP) and the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/organizations?authuser=0)
 * [CADSCOM 2024, 5th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2024/)
 * [FinNLP 2024, Joint Workshop of the 8th Financial Technology and Natural Language Processing (FinNLP) and the 1st Agent AI for Scenario Planning (AgentScen)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/organizations)
 * [ER 2024, 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/conference-organization.cfm)
