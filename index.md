@@ -133,7 +133,7 @@ __PC Member:__
 * [ER 2024, 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/conference-organization.cfm)
 * [FinNLP 2024, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/organizations)
 * [ICWSM 24, 18TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA](https://www.icwsm.org/2024/index.html/#program_committee)
-* [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2023.](https://w3phiai2024.w3phi.com/organizing-committee.html)
+* [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2024.](https://w3phiai2024.w3phi.com/organizing-committee.html)
 * [FinNLP 2023, 5th Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI-2023.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2023/organizations?authuser=0)
 * [W3PHIAI-23, 7th International Workshop on Health Intelligence in conjunction with AAAI 2023.](http://w3phiai2023.w3phi.com/organizing-committee.html)
 * [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
