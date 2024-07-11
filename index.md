@@ -140,6 +140,7 @@ __PC Member:__
 * [CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2022/)
 
 __Journal Manuscript Reviewer:__ 
+* Journal of Healthcare Informatics Research
 * Journal of Open Source Software 
 
 __Conference & Workshop Reviewer:__ 
@@ -219,4 +220,4 @@ __Victor Benjamin__
 
 <!-- ### Footer
 
-Last updated: Aug 17, 2023 -->
+Last updated: July 10, 2024 -->
