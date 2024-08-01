@@ -62,8 +62,8 @@ _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 <br/>
 `2023`
-__Jiang J.__, Srinivasan K. (in press) “A Discrete Bayesian Network for Analyzing Hospital
-Discharge Data.” Int. J. Data Science [https://doi.org/10.1504/IJDS.2024.10058157](https://doi.org/10.1504/IJDS.2024.10058157)
+__Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital
+Discharge Data.” Int. J. Data Science [https://www.inderscienceonline.com/doi/abs/10.1504/IJDS.2024.135946](https://www.inderscienceonline.com/doi/abs/10.1504/IJDS.2024.135946)
 <br/>
 <br/>
 `2023`
@@ -117,7 +117,7 @@ __Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https:
 ## ACADEMIC SERVICE
 
 
-**Number of papers reviewed: 41**
+**Number of papers reviewed: 43**
 <br/>
 **Number of grant-applications reviewed: 20**
 <br/>
@@ -191,7 +191,7 @@ _Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<b
 
 
 ## FREELANCING EXPERIENCE
-__Data Science Writer (26 articles, 600+ followers, 200K+ views)__<br/>
+__Data Science Writer (27 articles, 700+ followers, 210K+ views)__<br/>
 `2020.05 - present`
 _Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
 
