@@ -79,6 +79,8 @@ __Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospit
 
 
 ## REFERENCED CONFERENCE
+`2025.01`
+__Jiang J.__, Bandeli K., Srinivasan K. "Optimizing Retail Forecasting: Long-Term Model Selection with Deep Learning," The 58th Hawaii International Conference on System Sciences (HICSS 2025)
 `2023.12`
 Srinivasan K., __Jiang J.__ "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
 
