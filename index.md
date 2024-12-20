@@ -86,7 +86,7 @@ __Jiang J.__, Bandeli K., Srinivasan K. "Optimizing Retail Forecasting: Long-Ter
 Srinivasan K., __Jiang J.__ "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
 
 `2023.12`
-__Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)[https://aisel.aisnet.org/icis2023/emergpand/emergpand/6/]
+__Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)[https://aisel.aisnet.org/icis2023/emergpand/emergpand/6/](https://aisel.aisnet.org/icis2023/emergpand/emergpand/6/)
 
 `2023.10`
 __Jiang et al.__ "Dynamic Network Modeling of Retail Data Reveals Opportunities for Cross-Selling and Demand Forecasting," 7th Informs Workshop on Data Science (WDS 2023)
