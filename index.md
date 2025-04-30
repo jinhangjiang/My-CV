@@ -58,7 +58,11 @@ __University of Kansas, Business Analytics__ <br/>
 _Research Assistant - Analytics, Information, and Operations Management_
 <br/>
 
-## PEER-REVIEWED JOURNAL PAPER (Count: 4)
+## PEER-REVIEWED JOURNAL PAPER (Count: 5)
+<br/>
+<br/>
+`2025`
+__Jiang J.__, Bandeli K., Srinivasan K. “Dynamic model selection in enterprise forecasting systems using sequence modeling.” Decision Support Systems, p.114439. [https://doi.org/10.1016/j.dss.2025.114439](https://doi.org/10.1016/j.dss.2025.114439)
 <br/>
 <br/>
 `2023`
@@ -106,11 +110,15 @@ Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandem
 * Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," to be submitted <br/> <br/>
 
 ## ML PACKAGE
+`2025`
+__Jiang J.__, Srinivasan K. “__*Textregress*__”, available at [https://github.com/jinhangjiang/textregress](https://github.com/jinhangjiang/textregress)<br/><br/>
 `2022`
-__Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://doi.org/10.5281/zenodo.6853352](https://doi.org/10.5281/zenodo.6853352)
+__Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://github.com/jinhangjiang/morethansentiments](https://github.com/jinhangjiang/morethansentiments)
 
 
 ## INVITED TALK & PRESENTATION
+* Forecast-then-Optimize: From Prediction to Practical Impact, AIO Club, University of Kansas, March 2025 <br/><br/>
+* Future-Proof Your DS Career: My Journey and Your First Big Move, Information Technology Seminar Series, CSCI 2001, Southern Arkansas University, January 2025 <br/><br/>
 * The Artistic Journey in Data Science: From Junior to Senior, Information Technology Seminar Series, CSCI 2001, Southern Arkansas University, April 2024 <br/><br/>
 * Learn Data Science with A Production Mindset, AI Club, University of Kansas, April 2023 <br/><br/>
 * Learn Data Science with A Production Mindset, Information Technology Seminar, Computer Science Department, Southern Arkansas University, March 2023 <br/><br/>
