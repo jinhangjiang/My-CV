@@ -1,0 +1,106 @@
+// Layout
+#main {
+  max-width: $container-max-width;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+// Header
+.header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background-color: $header-bg;
+  border-bottom: 1px solid $border-color;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  margin-bottom: 0.5rem;
+  color: $primary-color;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  color: $secondary-color;
+  margin-bottom: 1rem;
+}
+
+#webaddress {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+// Navigation
+.main-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: $nav-bg;
+  backdrop-filter: blur(10px);
+  box-shadow: $shadow;
+}
+
+.nav-content {
+  max-width: $container-max-width;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+// Sections
+section {
+  margin-bottom: 3rem;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+
+  &.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Footer
+.footer {
+  text-align: center;
+  padding: 2rem;
+  color: $text-color;
+  opacity: 0.8;
+  font-size: 0.9rem;
+}
+
+// Dark mode
+body.dark-mode {
+  .header {
+    background-color: $dark-header-bg;
+    border-bottom-color: $dark-border-color;
+  }
+
+  .main-nav {
+    background-color: $dark-nav-bg;
+  }
+
+  .footer {
+    color: $dark-text-color;
+  }
+}
+
+// Responsive
+@media (max-width: $breakpoint-md) {
+  #main {
+    padding: 1rem;
+  }
+
+  .header {
+    padding: 2rem 1rem;
+  }
+
+  .nav-content {
+    padding: 0.5rem;
+  }
+} 

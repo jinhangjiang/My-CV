@@ -1,17 +1,55 @@
-markdown: kramdown
-style: modern
-
-# Site settings
-title: Jinhang Jiang
-description: Data Scientist & Researcher
-url: "http://jinhangjiang.com"
-baseurl: ""
+title: Jinhang Jiang's CV
+description: Professional CV of Jinhang Jiang
+show_downloads: false
 
 # Build settings
-permalink: /:title/
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
+  - .gitignore
+  - .jekyll-cache
+  - _site
+
+# Collections
+collections:
+  - assets
+  - media
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "cv"
+  - scope:
+      path: "assets"
+      type: "assets"
+    values:
+      layout: null
+  - scope:
+      path: "media"
+      type: "media"
+    values:
+      layout: null
+
+# Sass
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+
+# Site settings
+url: "http://jinhangjiang.com"
+baseurl: ""
 
 # Google Analytics
 google_analytics: G-DRC2GHV21Q

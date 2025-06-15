@@ -1,0 +1,40 @@
+// Utilities
+
+// Print styles
+@media print {
+  .main-nav,
+  .back-to-top,
+  .theme-toggle {
+    display: none;
+  }
+
+  body {
+    background-color: white;
+    color: black;
+  }
+
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .timeline-item,
+  .publication-item,
+  .software-item,
+  .talk-item,
+  .reference-item {
+    box-shadow: none;
+    border: 1px solid #ddd;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+} 

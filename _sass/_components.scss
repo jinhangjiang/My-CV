@@ -1,0 +1,339 @@
+// Components
+
+// Timeline items
+.timeline-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 120px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: $timeline-color;
+    opacity: 0.3;
+  }
+
+  time {
+    font-weight: 500;
+    color: $secondary-color;
+  }
+}
+
+// Publication items
+.publication-item {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: $section-bg;
+  border-radius: 0.5rem;
+  box-shadow: $shadow;
+
+  time {
+    color: $secondary-color;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .title {
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+
+  .journal {
+    color: $text-color;
+    opacity: 0.8;
+    margin-bottom: 0.5rem;
+  }
+
+  .doi a {
+    color: $link-color;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+}
+
+// Software items
+.software-item {
+  background-color: $section-bg;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: $shadow;
+
+  .software-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .software-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .downloads {
+    font-size: 0.9rem;
+    color: $secondary-color;
+  }
+}
+
+// Talk items
+.talk-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: $section-bg;
+  border-radius: 0.5rem;
+  box-shadow: $shadow;
+
+  time {
+    color: $secondary-color;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+}
+
+// Academic service
+.service-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stat-item {
+  background-color: $section-bg;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  box-shadow: $shadow;
+}
+
+.service-category {
+  margin-bottom: 2rem;
+
+  h3 {
+    margin-bottom: 1rem;
+    color: $secondary-color;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 1rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    position: relative;
+    padding-left: 1.5rem;
+
+    &::before {
+      content: '•';
+      color: $secondary-color;
+      position: absolute;
+      left: 0;
+    }
+  }
+}
+
+// Freelancing
+.freelance-item {
+  background-color: $section-bg;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: $shadow;
+}
+
+.freelance-stats {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.stat {
+  text-align: center;
+
+  .number {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: $secondary-color;
+    display: block;
+  }
+
+  .label {
+    font-size: 0.9rem;
+    color: $text-color;
+    opacity: 0.8;
+  }
+}
+
+// References
+.reference-item {
+  background-color: $section-bg;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: $shadow;
+
+  h3 {
+    color: $secondary-color;
+    margin-bottom: 1rem;
+  }
+
+  .details {
+    color: $text-color;
+    opacity: 0.9;
+  }
+}
+
+// Navigation components
+.dropdown-toggle {
+  background: none;
+  border: none;
+  color: $text-color;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.nav-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: $nav-bg;
+  box-shadow: $shadow;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  display: none;
+  flex-direction: column;
+  min-width: 200px;
+
+  &.show {
+    display: flex;
+  }
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: $transition-base;
+
+    &:hover {
+      background-color: $section-bg;
+      color: $secondary-color;
+    }
+  }
+}
+
+// Back to top button
+.back-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: $secondary-color;
+  color: white;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: $transition-base;
+  box-shadow: $shadow;
+
+  &.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  &:hover {
+    background-color: $link-hover-color;
+  }
+}
+
+// Theme toggle
+.theme-toggle {
+  background: none;
+  border: none;
+  color: $text-color;
+  cursor: pointer;
+  padding: 0.5rem;
+  font-size: 1.25rem;
+  transition: $transition-base;
+
+  &:hover {
+    color: $secondary-color;
+  }
+}
+
+// Dark mode
+body.dark-mode {
+  .timeline-item::before {
+    background-color: $dark-timeline-color;
+  }
+
+  .publication-item,
+  .software-item,
+  .talk-item,
+  .reference-item,
+  .stat-item {
+    background-color: $dark-section-bg;
+  }
+
+  .nav-dropdown {
+    background-color: $dark-nav-bg;
+
+    a:hover {
+      background-color: $dark-section-bg;
+    }
+  }
+}
+
+// Responsive
+@media (max-width: $breakpoint-md) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+
+    &::before {
+      display: none;
+    }
+
+    time {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  .service-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .freelance-stats {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .back-to-top {
+    bottom: 1rem;
+    right: 1rem;
+  }
+} 

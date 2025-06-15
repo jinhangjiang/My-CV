@@ -1,0 +1,248 @@
+/* Print-specific styles */
+@page {
+  size: A4;
+  margin: 2cm;
+}
+
+@media print {
+  /* Hide navigation and interactive elements */
+  .main-nav,
+  .back-to-top,
+  .theme-toggle,
+  .download-button {
+    display: none !important;
+  }
+
+  /* Reset colors and backgrounds */
+  body {
+    background-color: white !important;
+    color: black !important;
+    font-size: 12pt;
+    line-height: 1.5;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #main {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Ensure proper page breaks */
+  section {
+    break-inside: auto;
+    page-break-inside: auto;
+    margin-bottom: 1rem;
+  }
+
+  /* Remove text decoration from links */
+  a {
+    text-decoration: none !important;
+    color: black !important;
+  }
+
+  /* Style cards and items for print */
+  .publication-item,
+  .talk-item,
+  .freelance-item,
+  .award-item,
+  .software-item,
+  .timeline-item,
+  .role-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    background-color: white !important;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    margin-bottom: 1rem;
+    padding: 1rem !important;
+  }
+
+  /* Style academic service section */
+  .academic-service {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    background-color: white !important;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    padding: 1rem !important;
+  }
+
+  /* Adjust typography for print */
+  h1 {
+    font-size: 24pt !important;
+    margin-bottom: 1rem !important;
+  }
+
+  h2 {
+    font-size: 16pt !important;
+    margin-bottom: 0.5cm !important;
+    border-bottom: 1px solid #000 !important;
+  }
+
+  h3 {
+    font-size: 14pt !important;
+    margin-bottom: 0.3cm !important;
+  }
+
+  /* Ensure proper spacing */
+  p, ul, ol {
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Remove hover effects */
+  *:hover {
+    transform: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Ensure proper grid layout in print */
+  .timeline-item,
+  .publication-item,
+  .talk-item,
+  .freelance-item,
+  .role-item,
+  .software-item {
+    display: block !important;
+  }
+
+  .timeline-item time,
+  .publication-item time,
+  .talk-item time,
+  .freelance-item time,
+  .role-item time,
+  .software-item time {
+    display: block !important;
+    margin-bottom: 0.2cm !important;
+    font-weight: bold !important;
+  }
+
+  /* Ensure proper spacing for lists */
+  ul, ol {
+    padding-left: 1.5rem !important;
+  }
+
+  /* Ensure proper spacing for grid layouts */
+  .awards-grid {
+    display: block !important;
+  }
+
+  .award-item {
+    margin-bottom: 0.3cm !important;
+  }
+
+  /* Ensure proper spacing for icons */
+  .fas, .fab {
+    margin-right: 0.5rem !important;
+  }
+
+  /* Ensure proper spacing for venue information */
+  .venue {
+    margin-top: 0.5rem !important;
+  }
+
+  /* Ensure proper spacing for company information */
+  .company-name {
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Ensure proper spacing for role information */
+  .role-item {
+    margin-bottom: 1rem !important;
+  }
+
+  /* Ensure proper spacing for service items */
+  .service-item {
+    margin-bottom: 0.3cm !important;
+  }
+
+  /* Ensure proper spacing for software items */
+  .software-item {
+    margin-bottom: 1rem !important;
+  }
+
+  /* Ensure proper spacing for interest items */
+  .interest-item {
+    margin-bottom: 0.3cm !important;
+  }
+
+  /* Remove bullet points from education section */
+  .education-item ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+  }
+
+  .education-item li {
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Ensure proper spacing for education items */
+  .education-item {
+    margin-bottom: 1.5rem !important;
+  }
+
+  /* Ensure proper spacing for service subsections */
+  .service-subsection {
+    margin-bottom: 0.5cm !important;
+  }
+
+  .service-subsection h3 {
+    color: var(--secondary-color) !important;
+    font-size: 12pt !important;
+    margin-bottom: 0.3cm !important;
+  }
+
+  .header, .footer {
+    text-align: center;
+    margin-bottom: 1cm;
+  }
+
+  .header h1 {
+    font-size: 24pt;
+    margin-bottom: 0.5cm;
+  }
+
+  .subtitle {
+    font-size: 14pt;
+    margin-bottom: 0.5cm;
+  }
+
+  #webaddress {
+    font-size: 10pt;
+    margin-bottom: 1cm;
+  }
+
+  .content {
+    margin-left: 0;
+  }
+
+  .authors, .title, .journal, .doi, .issuer, .details {
+    margin-bottom: 0.2cm;
+  }
+
+  .interests-grid {
+    display: block;
+  }
+
+  .reference-item {
+    margin-bottom: 0.5cm;
+  }
+
+  .reference-item h3 {
+    font-size: 12pt;
+    margin-bottom: 0.2cm;
+  }
+
+  .details {
+    margin-left: 0.5cm;
+  }
+
+  /* Ensure all sections are visible */
+  #experience, #research-experience, #publications, #conferences, #software, #talks, #freelancing, #awards, #service, #references {
+    display: block !important;
+    page-break-inside: avoid;
+  }
+} 

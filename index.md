@@ -27,25 +27,21 @@ title: Jinhang Jiang's CV
 <section id="education" class="education">
   <h2><i class="fas fa-graduation-cap"></i> EDUCATION</h2>
   
-  <div class="timeline-item">
-    <time>2021.05</time>
+  <div class="education-item">
+    <time>2021</time>
     <div class="content">
-      <h3>Arizona State University, Tempe (AZ)</h3>
-      <ul>
-        <li>Master of Science in Business Analytics</li>
-        <li>Applied Project: "Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration"</li>
-      </ul>
+      <div class="institution">Arizona State University, Tempe (AZ)</div>
+      <div class="degree">Master of Science in Business Analytics</div>
+      <div class="project">Applied Project: "Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration"</div>
     </div>
   </div>
 
-  <div class="timeline-item">
-    <time>2020.07</time>
+  <div class="education-item">
+    <time>2020</time>
     <div class="content">
-      <h3>University of Kansas, Lawrence (KS)</h3>
-      <ul>
-        <li>Bachelor of Science in Business Analytics</li>
-        <li>Capstone Project: "A Network Framework for Exploratory and Predictive Analysis with IMDb Data"</li>
-      </ul>
+      <div class="institution">University of Kansas, Lawrence (KS)</div>
+      <div class="degree">Bachelor of Science in Business Analytics</div>
+      <div class="project">Capstone Project: "A Network Framework for Exploratory and Predictive Analysis with IMDb Data"</div>
     </div>
   </div>
 </section>
@@ -56,24 +52,25 @@ title: Jinhang Jiang's CV
   <div class="timeline-item">
     <time>2024.02 - present</time>
     <div class="content">
-      <h3>McKesson Corporation</h3>
+      <h3>McKesson Corp.</h3>
       <div class="role">Sr. Data Scientist - McKesson Technology</div>
     </div>
   </div>
 
-  <div class="timeline-item">
-    <time>2023.10 - 2024.02</time>
-    <div class="content">
-      <h3>Walmart Inc.</h3>
-      <div class="role">Sr. Data Scientist - Transportation</div>
+  <div class="company-experience">
+    <div class="role-item">
+      <time>2023.10 - 2024.02</time>
+      <div class="content">
+        <h3>Walmart Inc.</h3>
+        <div class="role">Sr. Data Scientist - Transportation</div>
+      </div>
     </div>
-  </div>
-
-  <div class="timeline-item">
-    <time>2021.09 - 2023.10</time>
-    <div class="content">
-      <h3>Walmart Inc.</h3>
-      <div class="role">Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI</div>
+    <div class="role-item">
+      <time>2021.09 - 2023.10</time>
+      <div class="content">
+        <h3>Walmart Inc.</h3>
+        <div class="role">Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI</div>
+      </div>
     </div>
   </div>
 </section>
@@ -179,7 +176,7 @@ title: Jinhang Jiang's CV
 </section>
 
 <section id="conferences" class="conferences">
-  <h2><i class="fas fa-comments"></i> REFERENCED CONFERENCES </h2>
+  <h2><i class="fas fa-comments"></i> REFERENCED CONFERENCES</h2>
   
   <div class="publication-item">
     <time>2025</time>
@@ -236,44 +233,38 @@ title: Jinhang Jiang's CV
   </div>
 </section>
 
-<section id="software" class="software">
+<section id="software" class="software-section">
   <h2><i class="fas fa-code"></i> SOFTWARES</h2>
   
   <div class="software-item">
-    <div class="software-header">
-      <div class="software-title">
-        <h3>TextRegress</h3>
-        <div class="downloads">2k+ downloads</div>
-      </div>
-      <time>2025</time>
-    </div>
-    <div class="software-content">
+    <time>2025</time>
+    <div class="content">
+      <div class="title">TextRegress</div>
+      <div class="description">A Python Package for advanced regression analysis on long-form text data</div>
       <div class="authors">Authors: <strong>Jiang J.</strong>, Liu B., Peng W., Srinivasan K.</div>
+      <div class="downloads">2k+ downloads</div>
     </div>
   </div>
 
   <div class="software-item">
-    <div class="software-header">
-      <div class="software-title">
-        <h3>MoreThanSentiments</h3>
-        <div class="downloads">24k+ downloads</div>
-      </div>
-      <time>2022</time>
-    </div>
-    <div class="software-content">
+    <time>2022</time>
+    <div class="content">
+      <div class="title">MoreThanSentiments</div>
+      <div class="description">A comprehensive text analysis package for sentiment analysis and beyond</div>
       <div class="authors">Authors: <strong>Jiang J.</strong>, Srinivasan K.</div>
+      <div class="downloads">24k+ downloads</div>
     </div>
   </div>
 </section>
 
 <section id="talks" class="talks">
-  <h2><i class="fas fa-microphone"></i> INVITED TALK & PRESENTATION</h2>
+  <h2><i class="fas fa-microphone"></i> INVITED TALKS</h2>
   
   <div class="talk-item">
     <time>Mar. 2025</time>
     <div class="content">
       <div class="title">"Forecast-then-optimize: Practical Forecasting Solutions for Large-Scale Applications"</div>
-      <div class="venue">AI Club, University of Kansas</div>
+      <div class="venue"><i class="fas fa-map-marker-alt"></i> AI Club, University of Kansas</div>
     </div>
   </div>
 
@@ -281,23 +272,15 @@ title: Jinhang Jiang's CV
     <time>Jan. 2025</time>
     <div class="content">
       <div class="title">"Future-Proof Your DS Career: My Journey and Your First Big Move"</div>
-      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
+      <div class="venue"><i class="fas fa-map-marker-alt"></i> Math and Computer Science Department, Southern Arkansas University</div>
     </div>
   </div>
 
   <div class="talk-item">
     <time>Mar. 2024</time>
     <div class="content">
-      <div class="title">"The DS Mindset to Senior Level"</div>
-      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <time>Apr. 2023</time>
-    <div class="content">
-      <div class="title">"Learn Data Science with A Production Mindset"</div>
-      <div class="venue">AI Club, University of Kansas</div>
+      <div class="title">"“The DS Mindset to Senior Level"</div>
+      <div class="venue"><i class="fas fa-map-marker-alt"></i> Math and Computer Science Department, Southern Arkansas University</div>
     </div>
   </div>
 
@@ -305,135 +288,130 @@ title: Jinhang Jiang's CV
     <time>Mar. 2023</time>
     <div class="content">
       <div class="title">"Learn Data Science with A Production Mindset"</div>
-      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <time>Nov. 2022</time>
-    <div class="content">
-      <div class="title">Panel Discussion</div>
-      <div class="venue">Business Analytics Department, University of Kansas</div>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <time>Dec. 2021</time>
-    <div class="content">
-      <div class="title">"The Future of Data Science and Business Analytics"</div>
-      <div class="venue">AI Club, University of Kansas</div>
+      <div class="venue"><i class="fas fa-map-marker-alt"></i> Math and Computer Science Department, Southern Arkansas University</div>
     </div>
   </div>
 </section>
 
-<section id="academic-service" class="academic-service">
-  <h2><i class="fas fa-university"></i> ACADEMIC SERVICE</h2>
-  
-  <div class="service-stats">
-    <div class="stat-item">
-      <div class="stat-number"><strong> Papers Reviewed:</strong> 45+</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-number"><strong>Grant Applications Reviewed:</strong> 20+</div>
-    </div>
-  </div>
-
-  <div class="service-category">
-    <h3>Grant Reviewer</h3>
-    <ul>
-      <li>National Science Foundation (NSF) Reviewer 2023</li>
-    </ul>
-  </div>
-
-  <div class="service-category">
-    <h3>PC Member</h3>
-    <ul>
-      <li>FinNLP 2022 to 2025, Workshop on Financial Technology and Natural Language Processing</li>
-      <li>ER 2024, International Conference on Conceptual Modeling</li>
-      <li>ICWSM 2024, International AAAI Conference on Web and Social Media</li>
-      <li>W3PHIAI 2023 to 2024, International Workshop on Health Intelligence in conjunction with AAAI</li>
-      <li>CADSCOM-2022 to 2024, Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM</li>
-    </ul>
-  </div>
-
-  <div class="service-category">
-    <h3>Journal Manuscript Reviewer</h3>
-    <ul>
-      <li>Journal of Open Source Software</li>
-    </ul>
-  </div>
-
-  <div class="service-category">
-    <h3>Conference & Workshop Reviewer</h3>
-    <ul>
-      <li>International AAAI Conference on Web and Social Media (ICWSM)</li>
-      <li>Midwest United States Association for Information Systems Conference (MWAIS)</li>
-      <li>International Conference on Informatics & Data-Driven Medicine (IDDM)</li>
-      <li>IEEE International Conference on Computer Science and Information Technologies (CSIT)</li>
-      <li>International Conference on Information Systems (ICIS)</li>
-      <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
-      <li>International Conference on Artificial Intelligence in Medicine (AIME)</li>
-      <li>Conference on Artificial Intelligence (AAAI)</li>
-      <li>International Conference on Recent Advances in Computing Sciences (RACS)</li>
-    </ul>
-  </div>
-</section>
-
-<section id="freelancing" class="freelancing">
-  <h2><i class="fas fa-pen-fancy"></i> FREELANCING EXPERIENCE</h2>
+<section id="freelancing" class="freelancing-section">
+  <h2><i class="fas fa-code"></i> FREELANCING EXPERIENCE</h2>
   
   <div class="freelance-item">
-    <div class="freelance-header">
-      <div class="freelance-title">
-        <h3>Data Science Writer</h3>
-        <div class="freelance-stats">
-          <div class="stat">
-            <span class="number">27</span>
-            <span class="label">articles</span>
-          </div>
-          <div class="stat">
-            <span class="number">700+</span>
-            <span class="label">followers</span>
-          </div>
-          <div class="stat">
-            <span class="number">228K+</span>
-            <span class="label">views</span>
-          </div>
-        </div>
-      </div>
-      <time>2020.05 - present</time>
-    </div>
-    <div class="freelance-content">
-      <div class="writing-collection">
-        <a href="https://medium.com/@jinhangjiang" target="_blank" rel="noopener noreferrer">
-          <i class="fas fa-external-link-alt"></i> Writing Collections
-        </a>
-      </div>
+    <time>2020.05 - present</time>
+    <div class="content">
+      <div class="title">Data Science Writer</div>
+      <div class="client"><a href="https://jinhangjiang.medium.com/">Writing Collection on Medium</a></div>
+      <div class="description"> 27 articles, 700+ followers, and 228K+ views.</div>
     </div>
   </div>
+
 </section>
 
 <section id="awards" class="awards">
-  <h2><i class="fas fa-trophy"></i> AWARDS</h2>
+  <h2><i class="fas fa-trophy"></i> AWARDS & HONORS</h2>
   
-  <div class="award-item">
-    <time>May 2025</time>
-    <div class="content">
-      <div class="title">McKesson Technology Global Awards</div>
+  <div class="awards-grid">
+    <div class="award-item">
+      <div class="title">McKesson Technology Global Awards </div>
+      <div class="issuer">McKesson Corp.</div>
+      <time>2025</time>
+    </div>
+
+    <div class="award-item">
+      <div class="title">Bravo Award Winner</div>
+      <div class="issuer">Walmart Inc.</div>
+      <time>2022</time>
+    </div>
+
+  </div>
+</section>
+
+<section id="service" class="academic-service">
+  <h2><i class="fas fa-handshake"></i> ACADEMIC SERVICE</h2>
+
+  <div class="service-subsection">
+    <h3>Number of Papers and Grant Applications Reviewed</h3>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">Number of papers reviewed: 50+</div>
+        <div class="title">Number of grant-applications reviewed: 20+</div>
+      </div>
     </div>
   </div>
 
-  <div class="award-item">
-    <time>Aug 2022</time>
-    <div class="content">
-      <div class="title">Walmart Bravo Award Winner for going above and beyond</div>
+  <div class="service-subsection">
+    <h3>Grant Reviewer</h3>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">National Science Foundation (NSF) Reviewer</div>
+        <div class="description">2023</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="service-subsection">
+    <h3>PC Member</h3>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">FinNLP 2022 to 2025</div>
+        <div class="description">Workshop on Financial Technology and Natural Language Processing</div>
+      </div>
+    </div>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">ER 2024</div>
+        <div class="description">International Conference on Conceptual Modeling</div>
+      </div>
+    </div>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">ICWSM 2024</div>
+        <div class="description">International AAAI Conference on Web and Social Media</div>
+      </div>
+    </div>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">W3PHIAI 2023 to 2024</div>
+        <div class="description">International Workshop on Health Intelligence in conjunction with AAAI</div>
+      </div>
+    </div>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">CADSCOM-2022 to 2024</div>
+        <div class="description">Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="service-subsection">
+    <h3>Journal Manuscript Reviewer</h3>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">Journal of Open Source Software</div>
+        <div class="title">Journal of Healthcare Informatics Research</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="service-subsection">
+    <h3>Conference & Workshop Reviewer</h3>
+    <div class="service-item">
+      <div class="content">
+        <div class="title">INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM)</div>
+        <div class="title">Midwest United States Association for Information Systems Conference (MWAIS)</div>
+        <div class="title">IEEE International Conference on Computer Science and Information Technologies (CSIT)</div>
+        <div class="title">International Conference on Information Systems (ICIS)</div>
+        <div class="title">Conference on Empirical Methods in Natural Language Processing (EMNLP)</div>
+        <div class="title">International Conference on Artificial Intelligence in Medicine (AIME)</div>
+        <div class="title">Conference on Artificial Intelligence (AAAI)</div>
+        <div class="title">International Conference on Recent Advances in Computing Sciences (RACS)</div>
+      </div>
     </div>
   </div>
 </section>
 
 <section id="references" class="references">
   <h2><i class="fas fa-user-tie"></i> REFERENCES</h2>
-  
   <div class="reference-item">
     <h3>Karthik Srinivasan</h3>
     <div class="details">
@@ -444,7 +422,6 @@ title: Jinhang Jiang's CV
       <div>Relationship: Supervisor, Mentor, Professor</div>
     </div>
   </div>
-
   <div class="reference-item">
     <h3>Victor Benjamin</h3>
     <div class="details">
@@ -458,6 +435,6 @@ title: Jinhang Jiang's CV
 </section>
 
 <div class="footer">
-  <p>Last updated: June 14, 2025</p>
+  <p>Last updated: June 15, 2025</p>
 </div>
 
