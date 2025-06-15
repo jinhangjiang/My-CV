@@ -40,32 +40,23 @@ defaults:
       type: "media"
     values:
       layout: null
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jinhang Jiang"
 
 # Sass
 sass:
   style: compressed
   load_paths:
     - _sass
+  sass_dir: _sass
 
 # Site settings
-url: "http://jinhangjiang.com"
-baseurl: ""
+url: "https://jinhangjiang.com"
+baseurl: "/My-CV"
 
 # Google Analytics
 google_analytics: G-DRC2GHV21Q
-
-# Default front matter
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Jinhang Jiang"
