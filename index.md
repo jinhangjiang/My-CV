@@ -2,233 +2,463 @@
 layout: cv
 title: Jinhang Jiang's CV
 ---
-# Jinhang Jiang
-### <a href="http://jinhangjiang.com">HOMEPAGE</a>
-Data Scientist at Walmart Inc.
 
-
-<div id="webaddress">
-<a href="mailto: jinhang@asu.edu">jinhang@asu.edu</a>
-| <a href="https://www.linkedin.com/in/jinhangjiang/">linkedin.com/in/jinhangjiang</a>
+<div class="header">
+  <h1>Jinhang Jiang</h1>
+  <div class="subtitle">Sr. Data Scientist, AI Solutions @ McKesson Corp.</div>
+  
+  <div id="webaddress">
+    <a href="http://jinhangjiang.com"><i class="fas fa-globe"></i> HOMEPAGE</a>
+    | <a href="mailto:jinhang@asu.edu"><i class="fas fa-envelope"></i> jinhang@asu.edu</a>
+    | <a href="https://www.linkedin.com/in/jinhangjiang/"><i class="fab fa-linkedin"></i> linkedin.com/in/jinhangjiang</a>
+  </div>
 </div>
 
-
-
-
-
-### RESEARCH INTERESTS
-
-Demand Forecasting, Social Network Analysis, Natural Language Processing, Healthcare Information System, Statistical Machine Learning
-
-
-
-## EDUCATION
-
-`2021.05`
-__Arizona State University, Tempe (AZ)__
-
-- Master of Science in Business Analytics
-- Applied Project: “Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration”
-
-`2020.07`
-__University of Kansas, Lawrence (KS)__
-
-- Bachelor of Science in Business Analytics
-- Capstone Project: “A Network Framework for Exploratory and Predictive Analysis with IMDb Data”
-
-
-
-## RESEARCH EXPERIENCE
-__Shandong University of Finance and Economics, The Industrial Development Research Institute__ <br/>
-`2023.01 - present`
-_Senior Researcher - Computational Economics_
-<br/>
-
-__University of Kansas, Business Analytics__ <br/>
-`2021.05 - 2023.05`
-_Volunteer Researcher - Analytics, Information, and Operations Management_
-<br/>
-
-__Arizona State University, Adidas Actionable Analytics Lab__<br/>
-`2020.10 - 2021.05`
-_Student Researcher - Social Media Analytics_
-
-__University of Kansas, Business Analytics__ <br/>
-`2020.01 - 2020.5`
-_Research Assistant - Analytics, Information, and Operations Management_
-<br/>
-
-## PEER-REVIEWED JOURNAL PAPER (Count: 5)
-<br/>
-<br/>
-`2025`
-__Jiang J.__, Bandeli K., Srinivasan K. “Dynamic model selection in enterprise forecasting systems using sequence modeling.” Decision Support Systems, p.114439. [https://doi.org/10.1016/j.dss.2025.114439](https://doi.org/10.1016/j.dss.2025.114439)
-<br/>
-<br/>
-`2023`
-__Jiang J.__, Srinivasan K. “A Discrete Bayesian Network for Analyzing Hospital
-Discharge Data.” Int. J. Data Science [https://www.inderscienceonline.com/doi/abs/10.1504/IJDS.2024.135946](https://www.inderscienceonline.com/doi/abs/10.1504/IJDS.2024.135946)
-<br/>
-<br/>
-`2023`
-Srinivasan K., __Jiang J.__ “Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach.” ACM Transactions on Management Information System. [https://doi.org/10.1145/3564274](https://doi.org/10.1145/3564274)
-<br/>
-<br/>
-`2022`
-__Jiang, J.__, Srinivasan, K. "MoreThanSentiments: A text analysis package." Software Impacts. [https://doi.org/10.1016/J.SIMPA.2022.100456](https://doi.org/10.1016/J.SIMPA.2022.100456)
-<br/>
-<br/>
-`2021`
-__Jiang J.__, Srinivasan K. “Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis." Journal of Digital Science. [https://doi.org/10.33847/2686-8296.3.2_2](https://doi.org/10.33847/2686-8296.3.2_2)
-
-
-## REFERENCED CONFERENCE
-`2025.01`
-__Jiang J.__, Bandeli K., Srinivasan K. "Optimizing Retail Forecasting: Long-Term Model Selection with Deep Learning," The 58th Hawaii International Conference on System Sciences (HICSS 2025)
-
-`2023.12`
-Srinivasan K., __Jiang J.__ "Leveraging Deep Language Models for Forecasting Firm Value Using Financial Disclosures," The 33rd WORKSHOP ON INFORMATION TECHNOLOGIES AND SYSTEMS (WITS 2023)
-
-`2023.12`
-__Jiang et al.__ "Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach," International Conference on Information Systems (ICIS 2023)[https://aisel.aisnet.org/icis2023/emergpand/emergpand/6/](https://aisel.aisnet.org/icis2023/emergpand/emergpand/6/)
-
-`2023.10`
-__Jiang et al.__ "Dynamic Network Modeling of Retail Data Reveals Opportunities for Cross-Selling and Demand Forecasting," 7th Informs Workshop on Data Science (WDS 2023)
-
-`2023.09`
-__Jiang et al.__ "Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media," 16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2023)
-
-`2021.12`
-Srinivasan K., __Jiang J.__ “Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling”, Health Information Technology Symposium (HITS 2021)
-
-## PREPRINTS
-* __Jiang et al.__ "Exploring Opportunities for Cross-Selling and Demand Forecasting in Retail Using Explanatory Graph Analytics." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.4742875](http://dx.doi.org/10.2139/ssrn.4742875)
-
-## WORKING PAPERS
-* __Jiang et al.__ “Are Managerial Discussions in Firm Disclosures Predictive of Firm Value: A Deep Learning Driven Investigation,” to be submitted to the International Journal of Information Management<br/> <br/>
-* __Jiang et al.__ "Temporal Network Analysis in Quantification of Product Complementarity in Retail," to be submitted. <br/> <br/>
-* Bandeli K., __Jiang et al.__ "Self-Supervised Adaptive Model Selection Frameworks for Demand Forecasting," to be submitted <br/> <br/>
-
-## ML PACKAGE
-`2025`
-__Jiang J.__, Srinivasan K. “__*Textregress*__”, available at [https://github.com/jinhangjiang/textregress](https://github.com/jinhangjiang/textregress)<br/><br/>
-`2022`
-__Jiang J.__, Srinivasan K. “__*MoreThanSentiments*__”, available at [https://github.com/jinhangjiang/morethansentiments](https://github.com/jinhangjiang/morethansentiments)
-
-
-## INVITED TALK & PRESENTATION
-* Forecast-then-Optimize: From Prediction to Practical Impact, AIO Club, University of Kansas, March 2025 <br/><br/>
-* Future-Proof Your DS Career: My Journey and Your First Big Move, Information Technology Seminar Series, CSCI 2001, Southern Arkansas University, January 2025 <br/><br/>
-* The Artistic Journey in Data Science: From Junior to Senior, Information Technology Seminar Series, CSCI 2001, Southern Arkansas University, April 2024 <br/><br/>
-* Learn Data Science with A Production Mindset, AI Club, University of Kansas, April 2023 <br/><br/>
-* Learn Data Science with A Production Mindset, Information Technology Seminar, Computer Science Department, Southern Arkansas University, March 2023 <br/><br/>
-* Guest Speaker and Panel Discussion, MSBA BSAN750 Machine Learning, University of Kansas, November 2022 <br/><br/>
-* The Future of Data Science and Business Analytics, AI Club, University of Kansas, September 2021
-
-## ACADEMIC SERVICE
-
-
-**Number of papers reviewed: 43**
-<br/>
-**Number of grant-applications reviewed: 20**
-<br/>
-<br/>
-__Grant Reviewer__
-* NSF Reviewer 2023
-
-
-__PC Member:__ 
-* [FinNLP 2025, Joint Workshop of the 9th Financial Technology and Natural Language Processing (FinNLP) and the 6th Financial Narrative Processing (FNP), and the 1st Workshop on Large Language Models for Finance and Legal (LLMFinLegal)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/organizations?authuser=0)
-* [CADSCOM 2024, 5th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2024/)
-* [FinNLP 2024, Joint Workshop of the 8th Financial Technology and Natural Language Processing (FinNLP) and the 1st Agent AI for Scenario Planning (AgentScen)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/organizations)
-* [ER 2024, 43rd International Conference on Conceptual Modeling](https://resources.sei.cmu.edu/news-events/events/er2024/conference-organization.cfm)
-* [FinNLP 2024, Joint Workshop of the 7th Financial Technology and Natural Language Processing (FinNLP), the 5th Knowledge Discovery from Unstructured Data in Financial Services (KDF), and The 4th Workshop on Economics and Natural Language Processing (ECONLP)](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-kdf-2024/organizations)
-* [ICWSM 24, 18TH INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA](https://www.icwsm.org/2024/index.html/#program_committee)
-* [W3PHIAI-24, 8th International Workshop on Health Intelligence in conjunction with AAAI 2024.](https://w3phiai2024.w3phi.com/organizing-committee.html)
-* [FinNLP 2023, 5th Workshop on Financial Technology and Natural Language Processing in conjunction with IJCAI-2023.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2023/organizations?authuser=0)
-* [W3PHIAI-23, 7th International Workshop on Health Intelligence in conjunction with AAAI 2023.](http://w3phiai2023.w3phi.com/organizing-committee.html)
-* [FinNLP 2022, 4th Workshop on Financial Technology and Natural Language Processing in conjunction with EMNLP 2022.](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home?authuser=0)
-* [CADSCOM 2022, 4th Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM.](https://www.twincitiesacm.org/cadscom2022/)
-
-__Journal Manuscript Reviewer:__ 
-* Journal of Healthcare Informatics Research
-* Journal of Open Source Software 
-
-__Conference & Workshop Reviewer:__ 
-* Midwest United States Association for Information Systems Conference (MWAIS)
-* International Conference on Informatics & Data-Driven Medicine (IDDM)
-* IEEE International Conference on Computer Science and Information Technologies (CSIT)
-* International Conference on Information Systems (ICIS)
-* Conference on Empirical Methods in Natural Language Processing (EMNLP)
-* International Conference on Artificial Intelligence in Medicine (AIME)
-* Conference on Artificial Intelligence (AAAI)
-* International Conference on Recent Advances in Computing Sciences (RACS)
-
-
-
-## INDUSTRY WORK EXPERIENCE
-__McKesson Corporation__<br/>
-`2024.02 - present`
-_Sr. Data Scientist - McKesson Technology_
-
-__Walmart Inc.__<br/>
-`2023.10 - 2024.02`
-_Sr. Data Scientist - Transportation_<br/>
-`2021.09 - 2023.10`
-_Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI_
-
-__Shanghai JunGe Management Consulting Co. Ltd__<br/>
-`2021.09 - present`
-_Chief Technology Officer_<br/>
-`2019.08 - present`
-_Co-Founder & Supervisor_
-
-__Fathom Loop Inc.__<br/>
-`2022.02 - 2022.06`
-_Senior Machine Learning Engineer - UX & Customer Segmentation_
-
-`2021.08 - 2022.02`
-_Senior Research Associate - Data Enhancement and Algorithm Development_
-
-
-
-
-
-## TEACHING EXPERIENCE
-__University of Kansas, Business Analytics, Overland Park (KS)__<br/>
-`2020.02 - 2020.04`
-_Teaching Assistant of Certificate in Analytics (SQL & Business Intelligence)_<br/>
-
-
-
-## FREELANCING EXPERIENCE
-__Data Science Writer (27 articles, 700+ followers, 210K+ views)__<br/>
-`2020.05 - present`
-_Writing Collections: [https://medium.com/@jinhangjiang](https://medium.com/@jinhangjiang)_<br/>
-
-
-
-
-
-
-## REFERENCES
-
-__Karthik Srinivasan__
-- Assistant Professor
-- Department of Business Analytics
-- School of Business, University of Kansas
-- Email: karthiks@ku.edu
-- Relationship: Supervisor, Mentor, Professor
-
-__Victor Benjamin__
-- Assistant Professor
-- Department of Information Systems
-- W.P. Carey School of Business, Arizona State University
-- Email: Victor.Benjamin@asu.edu
-- Relationship: Professor, Applied Project Supervisor
-
-
-
-<!-- ### Footer
-
-Last updated: July 10, 2024 -->
+<section id="research" class="research-interests">
+  <h2><i class="fas fa-microscope"></i> RESEARCH INTERESTS</h2>
+  <div class="interests-grid">
+    <div class="interest-item">Forecasting</div>
+    <div class="interest-item">Generative AI</div>
+    <div class="interest-item">Natural Language Processing</div>
+    <div class="interest-item">Healthcare Information System</div>
+  </div>
+</section>
+
+<section id="education" class="education">
+  <h2><i class="fas fa-graduation-cap"></i> EDUCATION</h2>
+  
+  <div class="timeline-item">
+    <time>2021.05</time>
+    <div class="content">
+      <h3>Arizona State University, Tempe (AZ)</h3>
+      <ul>
+        <li>Master of Science in Business Analytics</li>
+        <li>Applied Project: "Investigating Influencer Endorsements for Adidas: A Data-Driven Exploration"</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2020.07</time>
+    <div class="content">
+      <h3>University of Kansas, Lawrence (KS)</h3>
+      <ul>
+        <li>Bachelor of Science in Business Analytics</li>
+        <li>Capstone Project: "A Network Framework for Exploratory and Predictive Analysis with IMDb Data"</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="research-experience" class="research-experience">
+  <h2><i class="fas fa-flask"></i> RESEARCH EXPERIENCE</h2>
+  
+  <div class="timeline-item">
+    <time>2023.01 - 2025.01</time>
+    <div class="content">
+      <h3>Shandong University of Finance and Economics, The Industrial Development Research Institute</h3>
+      <div class="role">Senior Researcher - Computational Economics</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2021.05 - 2023.09</time>
+    <div class="content">
+      <h3>University of Kansas, Business Analytics</h3>
+      <div class="role">Volunteer Researcher - Analytics, Information, and Operations Management</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2020.10 - 2021.05</time>
+    <div class="content">
+      <h3>Arizona State University, Adidas Actionable Analytics Lab</h3>
+      <div class="role">Student Researcher - Social Media Analytics</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2020.01 - 2020.5</time>
+    <div class="content">
+      <h3>University of Kansas, Business Analytics</h3>
+      <div class="role">Research Assistant - Analytics, Information, and Operations Management</div>
+    </div>
+  </div>
+</section>
+
+<section id="publications" class="publications">
+  <h2><i class="fas fa-book"></i> PEER-REVIEWED JOURNAL PAPERS</h2>
+  
+  <div class="publication-item">
+    <time>2025</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong>, Bandeli K., Srinivasan K.</div>
+      <div class="title">"Dynamic model selection in enterprise forecasting systems using sequence modeling."</div>
+      <div class="journal">Decision Support Systems, p.114439.</div>
+      <div class="doi"><a href="https://doi.org/10.1016/j.dss.2025.114439">https://doi.org/10.1016/j.dss.2025.114439</a></div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2025</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"TextRegress: A Python Package for advanced regression analysis on long-form text data."</div>
+      <div class="journal">Software Impacts, 100760.</div>
+      <div class="doi"><a href="https://doi.org/10.1016/j.simpa.2025.100760">https://doi.org/10.1016/j.simpa.2025.100760</a></div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2024</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> and Srinivasan K.</div>
+      <div class="title">"A Discrete Bayesian Network for Analyzing Hospital Discharge Data."</div>
+      <div class="journal">Int. J. Data Science.</div>
+      <div class="doi"><a href="https://doi.org/10.1504/IJDS.2024.10058157">https://doi.org/10.1504/IJDS.2024.10058157</a></div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2023</time>
+    <div class="content">
+      <div class="authors">Srinivasan K. and <strong>Jiang J.</strong></div>
+      <div class="title">"Examining Disease Multimorbidity in U.S. Hospital Visits Before and During COVID-19 Pandemic: A Graph Analytics Approach."</div>
+      <div class="journal">ACM Trans. Manage. Inf. Syst. 14, 2, Article 17, 17 pages.</div>
+      <div class="doi"><a href="https://doi.org/10.1145/3564274">https://doi.org/10.1145/3564274</a></div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2022</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> and Srinivasan K.</div>
+      <div class="title">"MoreThanSentiments: A text analysis package."</div>
+      <div class="journal">Software Impacts, 100456.</div>
+      <div class="doi"><a href="https://doi.org/10.1016/J.SIMPA.2022.100456">https://doi.org/10.1016/J.SIMPA.2022.100456</a></div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2021</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> and Srinivasan K.</div>
+      <div class="title">"Comparing Pregnancy and Childbirth-related Hospital Visits in Arizona Before and During COVID-19 Using Network Analysis."</div>
+      <div class="journal">J. Digit. Sci. 3(2), 37 – 52.</div>
+      <div class="doi"><a href="https://doi.org/10.33847/2686-8296.3.2_2">https://doi.org/10.33847/2686-8296.3.2_2</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="conferences" class="conferences">
+  <h2><i class="fas fa-comments"></i> REFERENCED CONFERENCES </h2>
+  
+  <div class="publication-item">
+    <time>2025</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"Optimizing Retail Forecasting: Long-Term Model Selection with Deep Learning"</div>
+      <div class="journal">The 58th Hawaii International Conference on System Sciences (HICSS-58)</div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2023</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"Leveraging Deep language Models for Forecasting Firm Value Using Financial Disclosures"</div>
+      <div class="journal">Workshop on Information Technologies and Systems (WITS 2023)</div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2023</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"Can Conversations on Reddit Forecast Future Economic Uncertainty? An Explainable Deep Learning Approach"</div>
+      <div class="journal">International Conference on Information Systems (ICIS 2023)</div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2023</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"Dynamic Network Modeling of Retail Data Reveals Opportunities for Cross-Selling and Demand Forecasting"</div>
+      <div class="journal">Informs Workshop on Data Science (WDS 2023)</div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2023</time>
+    <div class="content">
+      <div class="authors"><strong>Jiang J.</strong> et al.</div>
+      <div class="title">"Forecasting Future Economic Uncertainty with Sentiments Embedded in Social Media"</div>
+      <div class="journal">16th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2023)</div>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <time>2021</time>
+    <div class="content">
+      <div class="authors">Srinivasan K. and <strong>Jiang J.</strong></div>
+      <div class="title">"Capturing Enduring Effects of the COVID-19 Pandemic on Hospital Visits in U.S. Using Graph Modeling"</div>
+      <div class="journal">Health Information Technology Symposium (HITS) - AIS SIG-Health Sponsored Pre-ICIS Workshop</div>
+    </div>
+  </div>
+</section>
+
+<section id="software" class="software">
+  <h2><i class="fas fa-code"></i> SOFTWARES</h2>
+  
+  <div class="software-item">
+    <div class="software-header">
+      <div class="software-title">
+        <h3>TextRegress</h3>
+        <div class="downloads">2k+ downloads</div>
+      </div>
+      <time>2025</time>
+    </div>
+    <div class="software-content">
+      <div class="authors">Authors: <strong>Jiang J.</strong>, Liu B., Peng W., Srinivasan K.</div>
+    </div>
+  </div>
+
+  <div class="software-item">
+    <div class="software-header">
+      <div class="software-title">
+        <h3>MoreThanSentiments</h3>
+        <div class="downloads">24k+ downloads</div>
+      </div>
+      <time>2022</time>
+    </div>
+    <div class="software-content">
+      <div class="authors">Authors: <strong>Jiang J.</strong>, Srinivasan K.</div>
+    </div>
+  </div>
+</section>
+
+<section id="talks" class="talks">
+  <h2><i class="fas fa-microphone"></i> INVITED TALK & PRESENTATION</h2>
+  
+  <div class="talk-item">
+    <time>Mar. 2025</time>
+    <div class="content">
+      <div class="title">"Forecast-then-optimize: Practical Forecasting Solutions for Large-Scale Applications"</div>
+      <div class="venue">AI Club, University of Kansas</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Jan. 2025</time>
+    <div class="content">
+      <div class="title">"Future-Proof Your DS Career: My Journey and Your First Big Move"</div>
+      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Mar. 2024</time>
+    <div class="content">
+      <div class="title">"The DS Mindset to Senior Level"</div>
+      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Apr. 2023</time>
+    <div class="content">
+      <div class="title">"Learn Data Science with A Production Mindset"</div>
+      <div class="venue">AI Club, University of Kansas</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Mar. 2023</time>
+    <div class="content">
+      <div class="title">"Learn Data Science with A Production Mindset"</div>
+      <div class="venue">Math and Computer Science Department, Southern Arkansas University</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Nov. 2022</time>
+    <div class="content">
+      <div class="title">Panel Discussion</div>
+      <div class="venue">Business Analytics Department, University of Kansas</div>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <time>Dec. 2021</time>
+    <div class="content">
+      <div class="title">"The Future of Data Science and Business Analytics"</div>
+      <div class="venue">AI Club, University of Kansas</div>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="industry-experience">
+  <h2><i class="fas fa-briefcase"></i> INDUSTRY WORK EXPERIENCE</h2>
+  
+  <div class="timeline-item">
+    <time>2024.02 - present</time>
+    <div class="content">
+      <h3>McKesson Corporation</h3>
+      <div class="role">Sr. Data Scientist - McKesson Technology</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2023.10 - 2024.02</time>
+    <div class="content">
+      <h3>Walmart Inc.</h3>
+      <div class="role">Sr. Data Scientist - Transportation</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2021.09 - 2023.10</time>
+    <div class="content">
+      <h3>Walmart Inc.</h3>
+      <div class="role">Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI</div>
+    </div>
+  </div>
+
+  <!-- Continue with other work experience in the same format -->
+</section>
+
+<section id="references" class="references">
+  <h2><i class="fas fa-user-tie"></i> REFERENCES</h2>
+  
+  <div class="reference-item">
+    <h3>Karthik Srinivasan</h3>
+    <div class="details">
+      <div>Assistant Professor</div>
+      <div>Department of Business Analytics</div>
+      <div>School of Business, University of Kansas</div>
+      <div>Email: karthiks@ku.edu</div>
+      <div>Relationship: Supervisor, Mentor, Professor</div>
+    </div>
+  </div>
+
+  <div class="reference-item">
+    <h3>Victor Benjamin</h3>
+    <div class="details">
+      <div>Assistant Professor</div>
+      <div>Department of Information Systems</div>
+      <div>W.P. Carey School of Business, Arizona State University</div>
+      <div>Email: Victor.Benjamin@asu.edu</div>
+      <div>Relationship: Professor, Applied Project Supervisor</div>
+    </div>
+  </div>
+</section>
+
+<section id="academic-service" class="academic-service">
+  <h2><i class="fas fa-university"></i> ACADEMIC SERVICE</h2>
+  
+  <div class="service-stats">
+    <div class="stat-item">
+      <div class="stat-number"><strong> Papers Reviewed:</strong> 45+</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number"><strong>Grant Applications Reviewed:</strong> 20+</div>
+    </div>
+  </div>
+
+  <div class="service-category">
+    <h3>Grant Reviewer</h3>
+    <ul>
+      <li>National Science Foundation (NSF) Reviewer 2023</li>
+    </ul>
+  </div>
+
+  <div class="service-category">
+    <h3>PC Member</h3>
+    <ul>
+      <li>FinNLP 2022 to 2025, Workshop on Financial Technology and Natural Language Processing</li>
+      <li>ER 2024, International Conference on Conceptual Modeling</li>
+      <li>ICWSM 2024, International AAAI Conference on Web and Social Media</li>
+      <li>W3PHIAI 2023 to 2024, International Workshop on Health Intelligence in conjunction with AAAI</li>
+      <li>CADSCOM-2022 to 2024, Colloquium on Analytics, Data Science and Computing – a chapter conference approved by ACM</li>
+    </ul>
+  </div>
+
+  <div class="service-category">
+    <h3>Journal Manuscript Reviewer</h3>
+    <ul>
+      <li>Journal of Open Source Software</li>
+    </ul>
+  </div>
+
+  <div class="service-category">
+    <h3>Conference & Workshop Reviewer</h3>
+    <ul>
+      <li>International AAAI Conference on Web and Social Media (ICWSM)</li>
+      <li>Midwest United States Association for Information Systems Conference (MWAIS)</li>
+      <li>International Conference on Informatics & Data-Driven Medicine (IDDM)</li>
+      <li>IEEE International Conference on Computer Science and Information Technologies (CSIT)</li>
+      <li>International Conference on Information Systems (ICIS)</li>
+      <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
+      <li>International Conference on Artificial Intelligence in Medicine (AIME)</li>
+      <li>Conference on Artificial Intelligence (AAAI)</li>
+      <li>International Conference on Recent Advances in Computing Sciences (RACS)</li>
+    </ul>
+  </div>
+</section>
+
+<section id="freelancing" class="freelancing">
+  <h2><i class="fas fa-pen-fancy"></i> FREELANCING EXPERIENCE</h2>
+  
+  <div class="freelance-item">
+    <div class="freelance-header">
+      <div class="freelance-title">
+        <h3>Data Science Writer</h3>
+        <div class="freelance-stats">
+          <div class="stat">
+            <span class="number">27</span>
+            <span class="label">articles</span>
+          </div>
+          <div class="stat">
+            <span class="number">700+</span>
+            <span class="label">followers</span>
+          </div>
+          <div class="stat">
+            <span class="number">228K+</span>
+            <span class="label">views</span>
+          </div>
+        </div>
+      </div>
+      <time>2020.05 - present</time>
+    </div>
+    <div class="freelance-content">
+      <div class="writing-collection">
+        <a href="https://medium.com/@jinhangjiang" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-external-link-alt"></i> Writing Collections
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="awards" class="awards">
+  <h2><i class="fas fa-trophy"></i> AWARDS</h2>
+  
+  <div class="award-item">
+    <time>May 2025</time>
+    <div class="content">
+      <div class="title">McKesson Technology Global Awards</div>
+    </div>
+  </div>
+
+  <div class="award-item">
+    <time>Aug 2022</time>
+    <div class="content">
+      <div class="title">Walmart Bravo Award Winner for going above and beyond</div>
+    </div>
+  </div>
+</section>
+
+<div class="footer">
+  <p>Last updated: July 10, 2024</p>
+</div>

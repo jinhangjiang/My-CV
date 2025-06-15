@@ -1,5 +1,33 @@
-markdown:   kramdown
-style:  davewhipp
+markdown: kramdown
+style: modern
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Site settings
+title: Jinhang Jiang
+description: Data Scientist & Researcher
+url: "http://jinhangjiang.com"
+baseurl: ""
+
+# Build settings
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Google Analytics
 google_analytics: G-DRC2GHV21Q
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jinhang Jiang"
