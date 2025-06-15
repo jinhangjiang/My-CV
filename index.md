@@ -12,6 +12,18 @@ title: Jinhang Jiang's CV
     | <a href="mailto:jinhang@asu.edu"><i class="fas fa-envelope"></i> jinhang@asu.edu</a>
     | <a href="https://www.linkedin.com/in/jinhangjiang/"><i class="fab fa-linkedin"></i> linkedin.com/in/jinhangjiang</a>
   </div>
+
+  <div class="quick-links">
+    <a href="#research"><i class="fas fa-microscope"></i> Research</a>
+    | <a href="#education"><i class="fas fa-graduation-cap"></i> Education</a>
+    | <a href="#experience"><i class="fas fa-briefcase"></i> Experience</a>
+    | <a href="#research-experience"><i class="fas fa-flask"></i> Research Experience</a>
+    | <a href="#talks"><i class="fas fa-microphone"></i> Talks</a>
+    | <a href="#academic-service"><i class="fas fa-university"></i> Academic Service</a>
+    | <a href="#freelancing"><i class="fas fa-pen-fancy"></i> Freelancing</a>
+    | <a href="#awards"><i class="fas fa-trophy"></i> Awards</a>
+    | <a href="#references"><i class="fas fa-user-tie"></i> References</a>
+  </div>
 </div>
 
 <section id="research" class="research-interests">
@@ -46,6 +58,34 @@ title: Jinhang Jiang's CV
         <li>Bachelor of Science in Business Analytics</li>
         <li>Capstone Project: "A Network Framework for Exploratory and Predictive Analysis with IMDb Data"</li>
       </ul>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="industry-experience">
+  <h2><i class="fas fa-briefcase"></i> INDUSTRY WORK EXPERIENCE</h2>
+  
+  <div class="timeline-item">
+    <time>2024.02 - present</time>
+    <div class="content">
+      <h3>McKesson Corporation</h3>
+      <div class="role">Sr. Data Scientist - McKesson Technology</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2023.10 - 2024.02</time>
+    <div class="content">
+      <h3>Walmart Inc.</h3>
+      <div class="role">Sr. Data Scientist - Transportation</div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <time>2021.09 - 2023.10</time>
+    <div class="content">
+      <h3>Walmart Inc.</h3>
+      <div class="role">Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI</div>
     </div>
   </div>
 </section>
@@ -298,62 +338,6 @@ title: Jinhang Jiang's CV
   </div>
 </section>
 
-<section id="experience" class="industry-experience">
-  <h2><i class="fas fa-briefcase"></i> INDUSTRY WORK EXPERIENCE</h2>
-  
-  <div class="timeline-item">
-    <time>2024.02 - present</time>
-    <div class="content">
-      <h3>McKesson Corporation</h3>
-      <div class="role">Sr. Data Scientist - McKesson Technology</div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <time>2023.10 - 2024.02</time>
-    <div class="content">
-      <h3>Walmart Inc.</h3>
-      <div class="role">Sr. Data Scientist - Transportation</div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <time>2021.09 - 2023.10</time>
-    <div class="content">
-      <h3>Walmart Inc.</h3>
-      <div class="role">Data Scientist - Merchandising, Inventory Management & Fulfillment, and Generative AI</div>
-    </div>
-  </div>
-
-  <!-- Continue with other work experience in the same format -->
-</section>
-
-<section id="references" class="references">
-  <h2><i class="fas fa-user-tie"></i> REFERENCES</h2>
-  
-  <div class="reference-item">
-    <h3>Karthik Srinivasan</h3>
-    <div class="details">
-      <div>Assistant Professor</div>
-      <div>Department of Business Analytics</div>
-      <div>School of Business, University of Kansas</div>
-      <div>Email: karthiks@ku.edu</div>
-      <div>Relationship: Supervisor, Mentor, Professor</div>
-    </div>
-  </div>
-
-  <div class="reference-item">
-    <h3>Victor Benjamin</h3>
-    <div class="details">
-      <div>Assistant Professor</div>
-      <div>Department of Information Systems</div>
-      <div>W.P. Carey School of Business, Arizona State University</div>
-      <div>Email: Victor.Benjamin@asu.edu</div>
-      <div>Relationship: Professor, Applied Project Supervisor</div>
-    </div>
-  </div>
-</section>
-
 <section id="academic-service" class="academic-service">
   <h2><i class="fas fa-university"></i> ACADEMIC SERVICE</h2>
   
@@ -459,6 +443,33 @@ title: Jinhang Jiang's CV
   </div>
 </section>
 
+<section id="references" class="references">
+  <h2><i class="fas fa-user-tie"></i> REFERENCES</h2>
+  
+  <div class="reference-item">
+    <h3>Karthik Srinivasan</h3>
+    <div class="details">
+      <div>Assistant Professor</div>
+      <div>Department of Business Analytics</div>
+      <div>School of Business, University of Kansas</div>
+      <div>Email: karthiks@ku.edu</div>
+      <div>Relationship: Supervisor, Mentor, Professor</div>
+    </div>
+  </div>
+
+  <div class="reference-item">
+    <h3>Victor Benjamin</h3>
+    <div class="details">
+      <div>Assistant Professor</div>
+      <div>Department of Information Systems</div>
+      <div>W.P. Carey School of Business, Arizona State University</div>
+      <div>Email: Victor.Benjamin@asu.edu</div>
+      <div>Relationship: Professor, Applied Project Supervisor</div>
+    </div>
+  </div>
+</section>
+
 <div class="footer">
   <p>Last updated: July 10, 2024</p>
 </div>
+

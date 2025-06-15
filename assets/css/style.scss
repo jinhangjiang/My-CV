@@ -406,4 +406,48 @@
       width: fit-content;
     }
   }
+}
+
+/* Quick Links */
+.quick-links {
+  margin-top: 1rem;
+  padding: 0.8rem;
+  background: var(--card-bg);
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  text-align: center;
+  font-size: 0.9rem;
+
+  a {
+    color: var(--text-color);
+    text-decoration: none;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+
+    &:hover {
+      color: var(--primary-color);
+      background: var(--bg-color);
+    }
+
+    i {
+      margin-right: 0.3rem;
+      font-size: 0.9rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    padding: 0.5rem;
+
+    a {
+      padding: 0.2rem 0.4rem;
+      font-size: 0.85rem;
+    }
+  }
 } 
