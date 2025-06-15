@@ -22,14 +22,24 @@
 <body>
   <nav class="main-nav">
     <div class="nav-content">
+      <div class="nav-brand">
+        <span>Jinhang Jiang</span>
+      </div>
+      <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
+        <i class="fas fa-bars"></i>
+      </button>
       <div class="nav-links">
+        <a href="#research"><i class="fas fa-microscope"></i> Research</a>
         <a href="#education"><i class="fas fa-graduation-cap"></i> Education</a>
-        <a href="#research"><i class="fas fa-flask"></i> Research</a>
-        <a href="#publications"><i class="fas fa-book"></i> Publications</a>
         <a href="#experience"><i class="fas fa-briefcase"></i> Experience</a>
+        <a href="#research-experience"><i class="fas fa-flask"></i> Research Experience</a>
+        <a href="#talks"><i class="fas fa-microphone"></i> Talks</a>
+        <a href="#academic-service"><i class="fas fa-university"></i> Academic Service</a>
+        <a href="#freelancing"><i class="fas fa-pen-fancy"></i> Freelancing</a>
+        <a href="#awards"><i class="fas fa-trophy"></i> Awards</a>
         <a href="#references"><i class="fas fa-user-tie"></i> References</a>
       </div>
-      <button id="theme-toggle" class="theme-toggle">
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
         <i class="fas fa-moon"></i>
       </button>
     </div>
@@ -37,15 +47,39 @@
 
   <div id="main">
     <div id="content">
-      {{ content }}
+    {{ content }}
     </div>
   </div>
 
-  <button id="back-to-top" class="back-to-top">
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top">
     <i class="fas fa-arrow-up"></i>
   </button>
 
   <script>
+    // Mobile menu toggle
+    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    const body = document.body;
+    
+    mobileMenuToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      navLinks.classList.toggle('active');
+      mobileMenuToggle.classList.toggle('active');
+    });
+
+    // Close mobile menu when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!navLinks.contains(e.target) && !mobileMenuToggle.contains(e.target)) {
+        navLinks.classList.remove('active');
+        mobileMenuToggle.classList.remove('active');
+      }
+    });
+
+    // Prevent clicks inside nav-links from closing the menu
+    navLinks.addEventListener('click', (e) => {
+      e.stopPropagation();
+    });
+
     // Smooth scrolling
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       anchor.addEventListener('click', function (e) {
@@ -53,6 +87,9 @@
         document.querySelector(this.getAttribute('href')).scrollIntoView({
           behavior: 'smooth'
         });
+        // Close mobile menu after clicking a link
+        navLinks.classList.remove('active');
+        mobileMenuToggle.classList.remove('active');
       });
     });
 
@@ -71,7 +108,6 @@
 
     // Dark mode toggle
     const themeToggle = document.getElementById('theme-toggle');
-    const body = document.body;
     
     themeToggle.addEventListener('click', () => {
       body.classList.toggle('dark-mode');

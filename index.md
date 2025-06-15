@@ -12,18 +12,6 @@ title: Jinhang Jiang's CV
     | <a href="mailto:jinhang@asu.edu"><i class="fas fa-envelope"></i> jinhang@asu.edu</a>
     | <a href="https://www.linkedin.com/in/jinhangjiang/"><i class="fab fa-linkedin"></i> linkedin.com/in/jinhangjiang</a>
   </div>
-
-  <div class="quick-links">
-    <a href="#research"><i class="fas fa-microscope"></i> Research</a>
-    | <a href="#education"><i class="fas fa-graduation-cap"></i> Education</a>
-    | <a href="#experience"><i class="fas fa-briefcase"></i> Experience</a>
-    | <a href="#research-experience"><i class="fas fa-flask"></i> Research Experience</a>
-    | <a href="#talks"><i class="fas fa-microphone"></i> Talks</a>
-    | <a href="#academic-service"><i class="fas fa-university"></i> Academic Service</a>
-    | <a href="#freelancing"><i class="fas fa-pen-fancy"></i> Freelancing</a>
-    | <a href="#awards"><i class="fas fa-trophy"></i> Awards</a>
-    | <a href="#references"><i class="fas fa-user-tie"></i> References</a>
-  </div>
 </div>
 
 <section id="research" class="research-interests">
@@ -470,6 +458,6 @@ title: Jinhang Jiang's CV
 </section>
 
 <div class="footer">
-  <p>Last updated: July 10, 2024</p>
+  <p>Last updated: June 14, 2025</p>
 </div>
 
