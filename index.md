@@ -397,7 +397,7 @@ title: Jinhang Jiang's CV
     <h3>Conference & Workshop Reviewer</h3>
     <div class="service-item">
       <div class="content">
-        <div class="title">Hawaii International Conference on System Sciences</div>
+        <div class="title">Hawaii International Conference on System Sciences (HICCS)</div>
         <div class="title">INTERNATIONAL AAAI CONFERENCE ON WEB AND SOCIAL MEDIA (ICWSM)</div>
         <div class="title">Midwest United States Association for Information Systems Conference (MWAIS)</div>
         <div class="title">IEEE International Conference on Computer Science and Information Technologies (CSIT)</div>
