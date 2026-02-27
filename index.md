@@ -5,7 +5,7 @@ title: Jinhang Jiang's CV
 
 <div class="header">
   <h1>Jinhang Jiang</h1>
-  <div class="subtitle">Sr. Data Scientist, AI Solutions @ McKesson Corp.</div>
+  <div class="subtitle">AI Lead, Enterprise Data Science Product @ McKesson Corp.</div>
   
   <div id="webaddress">
     <a href="http://jinhangjiang.com"><i class="fas fa-globe"></i> HOMEPAGE</a>
