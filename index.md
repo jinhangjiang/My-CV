@@ -50,7 +50,15 @@ title: Jinhang Jiang's CV
   <h2><i class="fas fa-briefcase"></i> INDUSTRY WORK EXPERIENCE</h2>
   
   <div class="timeline-item">
-    <time>2024.02 - present</time>
+    <time>2026.03 - present</time>
+    <div class="content">
+      <h3>McKesson Corp.</h3>
+      <div class="role">Lead Data Scientist - McKesson Technology</div>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <time>2024.02 - 2026.02</time>
     <div class="content">
       <h3>McKesson Corp.</h3>
       <div class="role">Sr. Data Scientist - McKesson Technology</div>
